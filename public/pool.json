@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_gta_vi_release_reality",
+  "slug": "gta-vi-release-reality",
+  "icon": "VI",
+  "title": "GTA VI Release Reality",
+  "locale": "en",
+  "canonical_url": "https://shaduf.ai/p/gta-vi-release-reality/",
+  "question": "What is the current release reality of GTA VI?",
+  "description": "A continuously updated, evidence-backed view of Rockstar commitments, material changes, and release confidence.",
+  "cadence": "Every 12 hours",
+  "evidence_scope": "Public internet sources",
+  "methodology_summary": "The pool separates official commitments, observed changes, credible reporting, community evidence, and unresolved uncertainty.",
+  "public_repo": "https://github.com/shaduf-labs/gta-vi-release-reality",
+  "tags": [
+    "GTA VI",
+    "Rockstar Games",
+    "Release date"
+  ],
+  "related_pools": [],
+  "release_state": "live",
+  "latest_research_at": "2026-09-07T08:55:00Z"
+}

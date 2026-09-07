@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:7050de68-fd43-4fb4-aa26-46b92ff22f68",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-07T08:42:00Z",
+      "completed_at": "2026-09-07T08:55:00Z",
+      "title": "GTA 6 still on for November 19?",
+      "summary": "First release-reality report: the console commitment remains current, launch signals support confidence without guaranteeing delivery, and PC timing remains unknown.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-09-07/",
+      "entrypoint": "research/2026-09-07/index.html"
+    }
+  ]
+}

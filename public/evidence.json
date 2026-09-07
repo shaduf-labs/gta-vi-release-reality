@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "pub:rockstar-home",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar lists November 19, 2026 and PlayStation 5 and Xbox Series X|S.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take2-q1",
+      "source_type": "publisher investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two reiterates the November 19, 2026 launch in its current fiscal outlook.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5/PS5 Pro and provides edition and preload details.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox",
+      "source_type": "official platform store",
+      "source_url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm?ocid=storeforweb",
+      "title": "Buy Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S and shows preorder editions.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:support",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support lists PS5 and Xbox Series X|S, November 12 preload, and a code-in-box physical version.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:extended",
+      "source_type": "official Newswire and partner announcement",
+      "source_url": "https://www.rockstargames.com/newswire/article/4k138k8okkk483/grand-theft-auto-vi-an-extended-look-now-playing",
+      "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
+      "claim": "Rockstar released the extended look and describes it as in-game footage captured on PlayStation 5.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:netflix-reach",
+      "source_type": "platform audience measurement",
+      "source_url": "https://www.netflix.com/tudum/articles/top-10-august-24-2026?inapp=true",
+      "title": "Grand Theft Auto VI: An Extended Look Soars to No. 1",
+      "claim": "Netflix reports 31.1 million views and No. 1 in 87 of 93 tracked countries; this is attention context, not readiness proof.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:delay-may",
+      "source_type": "official Newswire announcement",
+      "source_url": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026",
+      "title": "Grand Theft Auto VI is Now Coming May 26, 2026",
+      "claim": "Rockstar moved the target from fall 2025 to May 26, 2026.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:delay-nov",
+      "source_type": "official Newswire announcement",
+      "source_url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+      "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+      "claim": "Rockstar moved the target from May 26, 2026 to November 19, 2026.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pc-rumor",
+      "source_type": "reported rumor coverage",
+      "source_url": "https://www.vice.com/en/article/gta-6-pc-release-sooner-than-expected/",
+      "title": "GTA 6 PC Release Could Come “Sooner” Than Expected",
+      "claim": "VICE relays an unofficial VGC signal about a potentially shorter PC wait; no date or window is provided.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:leak-age",
+      "source_type": "reported leak coverage",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaked-footage-is-actually-years-old-according-to-leakers/",
+      "title": "New GTA 6 leaked footage is actually years old, alleged leakers claim",
+      "claim": "GamesRadar reports an unverified claim that some circulating clips are from 2023; no leaked material is reproduced.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:leak-court",
+      "source_type": "reported legal coverage",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-as-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
+      "title": "Court grants Take-Two request in leak investigation",
+      "claim": "Reported legal action shows an active infringement investigation but does not establish readiness or a date.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:leak-response",
+      "source_type": "reported official-response coverage",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-responds-to-gta-6-leaks-this-is-not-how-we-intended-for-you-see-the-game-after-all-this-time/",
+      "title": "Rockstar responds to GTA 6 leaks",
+      "claim": "Rockstar acknowledged the leak in a public response; the checked release materials still listed November 19, 2026.",
+      "accessed_at": "2026-09-07T08:50:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}
