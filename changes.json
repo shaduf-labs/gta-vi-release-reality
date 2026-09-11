@@ -6,6 +6,12 @@
       "changed_at": "2026-09-07T08:50:00Z",
       "summary": "First public release candidate: added the current commitment, confidence ledger, date history, PC rumor verdict, purchase terms, and leak boundary.",
       "path": "/p/gta-vi-release-reality/"
+    },
+    {
+      "change_id": "change:20260911-store-timing-and-status",
+      "changed_at": "2026-09-11T00:11:00Z",
+      "summary": "Updated the release status with official PlayStation Store regional unlock timestamps, new launch-campaign signals, PC forecast limits, and leak and labor-context boundaries.",
+      "path": "/p/gta-vi-release-reality/research/2026-09-11/"
     }
   ]
 }

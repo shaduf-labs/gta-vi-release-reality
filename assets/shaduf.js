@@ -7,7 +7,12 @@
     document.querySelectorAll('[data-language-label]').forEach((node) => { node.textContent = locale.toUpperCase() })
     const prioritize = (selector) => document.querySelectorAll(selector).forEach((container) => {
       const items = [...container.children].filter((item) => item.matches('[data-locale]'))
-      items.sort((a, b) => Number(b.dataset.locale === locale) - Number(a.dataset.locale === locale)).forEach((item) => container.append(item))
+      items.sort((a, b) => {
+        const freshness = Number(a.dataset.stale === 'true') - Number(b.dataset.stale === 'true')
+        const language = Number(b.dataset.locale === locale) - Number(a.dataset.locale === locale)
+        const originalOrder = Number(a.dataset.catalogueOrder || 0) - Number(b.dataset.catalogueOrder || 0)
+        return freshness || language || originalOrder
+      }).forEach((item) => container.append(item))
     })
     prioritize('.explore-list')
     prioritize('.related-dock')
@@ -82,6 +87,7 @@
       }
       for (const { item } of matches) {
         const link = document.createElement('a')
+        link.className = 'search-result'
         link.href = item.href
         const meta = document.createElement('small')
         meta.textContent = item.kind
@@ -201,13 +207,14 @@
   })
 
   document.querySelector('[data-follow]')?.addEventListener('click', async (event) => {
+    const button = event.currentTarget
     const current = await session()
     if (!current.authenticated) {
       location.href = `/api/auth/github/start?return_to=${encodeURIComponent(location.pathname)}`
       return
     }
     const response = await fetch(`/api/follows/${encodeURIComponent(body.dataset.poolId || '')}`, { method: 'POST', headers: { 'x-shaduf-csrf': current.csrf_token || '' } })
-    if (response.ok) { event.currentTarget.textContent = 'Following'; showToast('Pool saved — notifications are not enabled') }
+    if (response.ok) { button.textContent = 'Following'; showToast('Pool saved — notifications are not enabled') }
     else showToast('Follow could not be saved')
   })
 
