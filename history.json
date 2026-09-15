@@ -22,6 +22,17 @@
       "summary": "The November 19 console commitment remains current. Official PlayStation Store pages now expose regional PS5 unlock timestamps, while PC remains unannounced and leak, labor, and forecast claims do not change the release answer.",
       "report_path": "/p/gta-vi-release-reality/research/2026-09-11/",
       "entrypoint": "research/2026-09-11/index.html"
+    },
+    {
+      "run_id": "run:45299cb8-31b3-4b88-b563-456b52af5b33",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-15T00:00:00Z",
+      "completed_at": "2026-09-15T00:20:00Z",
+      "title": "GTA 6 still on for November 19? Fresh context checked",
+      "summary": "The November 19 console commitment and PS5 Store timestamps held. Rockstar Store logistics became clearer, while tribunal and Miami Beach reports added context without changing the release answer; PC remains unannounced.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-09-15/",
+      "entrypoint": "research/2026-09-15/index.html"
     }
   ]
 }

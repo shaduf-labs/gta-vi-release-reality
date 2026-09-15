@@ -12,6 +12,12 @@
       "changed_at": "2026-09-11T00:11:00Z",
       "summary": "Updated the release status with official PlayStation Store regional unlock timestamps, new launch-campaign signals, PC forecast limits, and leak and labor-context boundaries.",
       "path": "/p/gta-vi-release-reality/research/2026-09-11/"
+    },
+    {
+      "change_id": "change:20260915-recheck-and-context",
+      "changed_at": "2026-09-15T00:10:19Z",
+      "summary": "Rechecked the unchanged November 19 console commitment and PS5 Store timestamps; added Rockstar Store logistics and bounded tribunal and Miami campaign context without treating either as a schedule signal.",
+      "path": "/p/gta-vi-release-reality/research/2026-09-15/"
     }
   ]
 }

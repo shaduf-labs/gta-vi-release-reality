@@ -190,6 +190,106 @@
       "accessed_at": "2026-09-11T00:11:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-store-20260915",
+      "source_type": "official publisher store",
+      "source_url": "https://store.rockstargames.com/game/buy-gta-vi?drm=PlayStation+5",
+      "title": "Grand Theft Auto VI — Rockstar Store",
+      "claim": "Rockstar’s Store still lists November 19, 2026 and publishes November 12 preload and code-in-box physical logistics.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-20260915",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-us/concept/10000730",
+      "title": "Grand Theft Auto VI — US PlayStation Store",
+      "claim": "The US digital PS5 Store page still lists November 19, 2026 at 05:00 UTC.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-20260915",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The New Zealand digital PS5 Store page still lists November 18, 2026 at 11:00 UTC, which is November 19 local time.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20260915",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox still lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:sec-take2-20260915",
+      "source_type": "SEC-filed publisher release",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026054580/ttwo1q27earningsrelease.htm",
+      "title": "Take-Two fiscal Q1 2027 release filed with the SEC",
+      "claim": "The filed publisher release still lists GTA VI for November 19, 2026 on PS5 and Xbox Series X|S and warns that timely delivery is an assumption.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:tribunal-day3-20260915",
+      "source_type": "reported employment-law coverage",
+      "source_url": "https://www.gtavice.net/news/day-3-rockstar-employment-tribunal",
+      "title": "Day 3: Rockstar Employment Tribunal",
+      "claim": "Fresh reporting covers a contested tribunal argument about unannounced features; it does not report a release-date change.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:tribunal-independent-20260915",
+      "source_type": "reported news coverage",
+      "source_url": "https://www.independent.co.uk/news/uk/home-news/rockstar-discord-union-iwgb-canada-b3049875.html",
+      "title": "Rockstar tribunal coverage",
+      "claim": "The Independent reports on the live proceeding and competing interpretations without linking it to a current GTA VI schedule movement.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:miami-beach-20260915",
+      "source_type": "reported local marketing coverage",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-gta-6-collab-despite-concerns/",
+      "title": "Miami Beach votes in favor of a GTA VI collaboration",
+      "claim": "Local reporting describes a Miami Beach vote and negotiation around a reported GTA VI campaign; this is marketing context, not software-readiness evidence.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:miami-cbs-20260915",
+      "source_type": "local news coverage",
+      "source_url": "https://www.cbsnews.com/miami/news/how-miami-miami-beach-and-miami-dade-county-may-market-grand-theft-auto-vi/?intcid=CNR-01-0623",
+      "title": "How Miami-area governments may market Grand Theft Auto VI",
+      "claim": "CBS Miami distinguishes city promotional activity from the unresolved county question; it does not establish a release change.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:miamidade-boundary-20260915",
+      "source_type": "official county statement",
+      "source_url": "https://www.miamidade.gov/global/release-sp.page?Mduid_release=rel1788447602441436",
+      "title": "Miami-Dade statement on reported GTA VI collaboration",
+      "claim": "The county statement is a boundary against treating reports as proof of a formal Miami-Dade agreement with Rockstar.",
+      "accessed_at": "2026-09-15T00:10:19Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
