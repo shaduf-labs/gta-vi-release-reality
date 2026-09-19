@@ -290,6 +290,106 @@
       "accessed_at": "2026-09-15T00:10:19Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20260919",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for the current PS5 and Xbox Series X|S launch.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20260919",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox still lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-20260919",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-us/concept/10000730",
+      "title": "Grand Theft Auto VI — US PlayStation Store",
+      "claim": "The US digital PS5 Store page still lists November 19, 2026 at 05:00 UTC.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-20260919",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The New Zealand digital PS5 Store page still lists November 18, 2026 at 11:00 UTC, which is November 19 local time.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-20260919",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support still lists PS5 and Xbox Series X|S, November 12 preload, and a physical code-in-box version with no disc.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-album",
+      "source_type": "official Rockstar Newswire",
+      "source_url": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+      "title": "Announcing Grand Theft Auto VI: The Album",
+      "claim": "Rockstar announced a 34-track GTA VI album for November 19, 2026, with six singles available and vinyl and CD pre-orders.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-album-page",
+      "source_type": "official Rockstar music page",
+      "source_url": "https://www.rockstargames.com/VI/music",
+      "title": "Grand Theft Auto VI — Music",
+      "claim": "Rockstar’s album page says “Coming November 19,” lists 34 original tracks, and provides digital pre-save and physical pre-order links.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-agm",
+      "source_type": "reported transcript of official shareholder meeting",
+      "source_url": "https://stockanalysis.com/stocks/ttwo/transcripts/722690-agm-2026/",
+      "title": "Take-Two 2026 annual meeting transcript",
+      "claim": "The September 17 meeting transcript records a November 19 PS5 and Xbox reiteration and general comments that PC is becoming more important; it announces no GTA VI PC platform, date, or window.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pcgamer-pc",
+      "source_type": "reported publisher-comment coverage",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
+      "title": "Take-Two says PC is becoming more important",
+      "claim": "PC Gamer reports on Take-Two’s general PC strategy comments; the report does not provide an official GTA VI PC date or window.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps5-pro-context",
+      "source_type": "reported hardware availability and buying guide",
+      "source_url": "https://www.tomsguide.com/gaming/playstation/ps5-pro-restocks-latest-updates",
+      "title": "PS5 Pro restock and availability context",
+      "claim": "Tom’s Guide reports PS5 Pro scarcity and above-MSRP listings and notes that Rockstar has not confirmed how GTA VI uses the Pro; scarcity is purchase context, not readiness evidence.",
+      "accessed_at": "2026-09-19T00:10:25Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

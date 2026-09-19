@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As of September 15, 2026, Grand Theft Auto VI remains committed to November 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar, Take-Two, Xbox, PlayStation, and the checked Store surfaces still converge on that console date; the same PS5 Store timestamps held on recheck. Preload and code-in-box logistics support an active launch plan, while reported Miami Beach promotion and tribunal coverage are context, not schedule evidence. Two prior official date movements still limit confidence, and no official PC platform or release date is published in the sources checked.",
+  "current_answer": "As of September 19, 2026, Grand Theft Auto VI remains committed to November 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar, Take-Two, Xbox, PlayStation, and the checked Store surfaces still converge on that console date. Rockstar’s new 34-track album rollout and Take-Two’s shareholder remarks add launch-campaign context, not a guarantee; PC still has no official platform or date.",
   "catalogue_card": {
     "question": "Is GTA 6 still on for November 19?",
-    "text": "Yes on the current record: the November 19, 2026 console commitment remains live. The same PS5 Store unlock times held on recheck, but they are operational metadata—not a guarantee—and PC still has no official date."
+    "text": "Yes on the current official record: the November 19, 2026 console commitment remains live. The new album and shareholder remarks show an active launch campaign, but they do not make the schedule unchangeable and PC still has no official date."
   },
   "summary": [
     "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
-    "The US and New Zealand PlayStation Store pages still show 05:00 UTC on November 19 and 11:00 UTC on November 18 respectively; Xbox timing remains separate.",
-    "Rockstar Store and Support pages publish November 12 preload and code-in-box physical logistics; these support an active launch plan but do not guarantee delivery.",
-    "Fresh tribunal and Miami Beach campaign reports add company and marketing context, not a new schedule signal; no new official delay was found.",
-    "No official PC platform or release date is published in the checked launch materials."
+    "Rockstar announced a 34-track GTA VI album for November 19; it is launch collateral and campaign activity, not proof that the software build is finished.",
+    "Take-Two reiterated the console launch and described PC as increasingly important in general, but announced no GTA VI PC platform, date, or window.",
+    "The US and New Zealand PlayStation Store pages still show 05:00 UTC on November 19 and 11:00 UTC on November 18 respectively; preload and code-in-box terms remain published.",
+    "PS5 Pro scarcity and community buy-or-wait discussion are purchase context; no official source says a Pro is required or supplies a unique GTA VI performance promise."
   ],
   "uncertainty": [
     "An official commitment is not a guarantee; two earlier official date movements remain in the record.",
+    "The album, preorders, localization, physical logistics, and hardware marketing show launch activity but do not prove readiness or freeze the date.",
     "PlayStation Store timestamps are operational metadata for digital PS5 listings and may change; they do not establish Xbox timing.",
-    "The PC sooner-than-expected report and editorial forecasts are unofficial; no official PC window exists.",
-    "Tribunal reporting and local Miami campaign coverage are context with no inspected link to a schedule movement or software readiness.",
-    "No first-party pool analytics, repeat-use signal, or revenue signal exists yet."
+    "Take-Two’s PC comments describe general strategy, not a GTA VI PC commitment; no official PC platform or window exists in the checked materials.",
+    "Retail stock, resale prices, and community hardware discussion are volatile and self-selected; no first-party pool analytics or revenue signal exists."
   ],
-  "checked_at": "2026-09-15T00:10:19Z",
-  "meaningfully_updated_at": "2026-09-11T00:11:00Z",
-  "freshness_note": "Checked September 15, 2026. Recheck after any Rockstar, Take-Two, platform-store, Xbox timing, PC, or material schedule update."
+  "checked_at": "2026-09-19T00:10:25Z",
+  "meaningfully_updated_at": "2026-09-19T00:24:33Z",
+  "freshness_note": "Checked September 19, 2026. Recheck after any Rockstar, Take-Two, platform-store, Xbox timing, PC, hardware, or material schedule update."
 }

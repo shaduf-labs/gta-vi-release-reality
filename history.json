@@ -33,6 +33,17 @@
       "summary": "The November 19 console commitment and PS5 Store timestamps held. Rockstar Store logistics became clearer, while tribunal and Miami Beach reports added context without changing the release answer; PC remains unannounced.",
       "report_path": "/p/gta-vi-release-reality/research/2026-09-15/",
       "entrypoint": "research/2026-09-15/index.html"
+    },
+    {
+      "run_id": "run:3ab42bd3-30bc-4b6c-b168-42384a0a4322",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T00:00:00Z",
+      "completed_at": "2026-09-19T00:24:33Z",
+      "title": "GTA 6 still on for November 19? Album and PC boundary checked",
+      "summary": "The console commitment held. Rockstar’s official album and Take-Two’s shareholder remarks add launch-campaign context and sharpen the PC unknown, while hardware scarcity is a buy-or-wait risk rather than readiness evidence.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-09-19/",
+      "entrypoint": "research/2026-09-19/index.html"
     }
   ]
 }

@@ -18,6 +18,12 @@
       "changed_at": "2026-09-15T00:10:19Z",
       "summary": "Rechecked the unchanged November 19 console commitment and PS5 Store timestamps; added Rockstar Store logistics and bounded tribunal and Miami campaign context without treating either as a schedule signal.",
       "path": "/p/gta-vi-release-reality/research/2026-09-15/"
+    },
+    {
+      "change_id": "change:20260919-album-and-pc-boundary",
+      "changed_at": "2026-09-19T00:24:33Z",
+      "summary": "Rechecked the unchanged November 19 console commitment; added Rockstar’s official soundtrack rollout, Take-Two’s general PC strategy remarks, and a PS5 Pro purchase-risk boundary without treating collateral or scarcity as readiness evidence.",
+      "path": "/p/gta-vi-release-reality/research/2026-09-19/"
     }
   ]
 }
