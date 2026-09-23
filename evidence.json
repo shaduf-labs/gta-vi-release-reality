@@ -390,6 +390,86 @@
       "accessed_at": "2026-09-19T00:10:25Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20260923",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for the current console launch and shows no newer schedule item in the checked page.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20260923",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox still lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-pro-label-20260923",
+      "source_type": "official platform page and store",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro and labels the game PS5 Pro Enhanced; the page does not publish a Pro performance target or requirement.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-20260923",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-us/concept/10000730",
+      "title": "Grand Theft Auto VI — US PlayStation Store",
+      "claim": "The US digital PS5 Store page still lists November 19, 2026 at 05:00 UTC and labels the game PS5 Pro Enhanced.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-20260923",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The New Zealand digital PS5 Store page still lists November 18, 2026 at 11:00 UTC, which is November 19 local time, and labels the game PS5 Pro Enhanced.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-20260923",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support still lists PS5 and Xbox Series X|S, November 12 preload, a code-in-box physical version, and account-region terms.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:old-data-archive-20260923",
+      "source_type": "reported leak and data-archive coverage",
+      "source_url": "https://www.tomshardware.com/video-games/massive-192gb-gta-leak-reveals-early-gta-vi-map-and-canceled-dlcs-files-show-liquid-nitrogen-death-for-trevor-and-scrapped-liberty-city-expansion",
+      "title": "Reported old GTA data archive",
+      "claim": "Tom’s Hardware reports alleged rough early GTA VI map material in an old data archive; the report supplies no current build or schedule evidence, and no leaked files are reproduced.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pc-context-20260923",
+      "source_type": "reported publisher-comment coverage",
+      "source_url": "https://as.com/meristation/noticias/gta-6-sigue-sin-fecha-en-pc-pero-el-jefe-de-take-two-lanza-un-mensaje-esperanzador-a-sus-jugadores-f202609-n/",
+      "title": "MeriStation PC coverage",
+      "claim": "The September 22 report describes Take-Two’s general PC comments while stating that no official GTA VI PC date has been announced.",
+      "accessed_at": "2026-09-23T00:15:10Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }

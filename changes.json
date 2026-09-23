@@ -24,6 +24,12 @@
       "changed_at": "2026-09-19T00:24:33Z",
       "summary": "Rechecked the unchanged November 19 console commitment; added Rockstar’s official soundtrack rollout, Take-Two’s general PC strategy remarks, and a PS5 Pro purchase-risk boundary without treating collateral or scarcity as readiness evidence.",
       "path": "/p/gta-vi-release-reality/research/2026-09-19/"
+    },
+    {
+      "change_id": "change:20260923-recheck-and-leak-boundary",
+      "changed_at": "2026-09-23T00:22:00Z",
+      "summary": "Rechecked the unchanged November 19 console commitment and PS5 Store metadata; clarified the official PS5 Pro Enhanced label, kept PC unknown, and bounded a report about old rough leak material without treating it as schedule evidence.",
+      "path": "/p/gta-vi-release-reality/research/2026-09-23/"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As of September 19, 2026, Grand Theft Auto VI remains committed to November 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar, Take-Two, Xbox, PlayStation, and the checked Store surfaces still converge on that console date. Rockstar’s new 34-track album rollout and Take-Two’s shareholder remarks add launch-campaign context, not a guarantee; PC still has no official platform or date.",
+  "current_answer": "As of September 23, 2026, Grand Theft Auto VI remains committed to November 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar, Take-Two, Xbox, PlayStation, and the checked Store surfaces still converge on that console date; PlayStation listings label the game PS5 Pro Enhanced but publish no performance requirement. Fresh reporting about an old rough data archive and PC speculation does not change the official console answer, and PC still has no official platform or date.",
   "catalogue_card": {
     "question": "Is GTA 6 still on for November 19?",
-    "text": "Yes on the current official record: the November 19, 2026 console commitment remains live. The new album and shareholder remarks show an active launch campaign, but they do not make the schedule unchangeable and PC still has no official date."
+    "text": "Yes on the current official record: the November 19, 2026 console commitment remains live. PS5 listings now show the game as PS5 Pro Enhanced, but no Pro requirement or performance target is published; PC remains unannounced."
   },
   "summary": [
     "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
-    "Rockstar announced a 34-track GTA VI album for November 19; it is launch collateral and campaign activity, not proof that the software build is finished.",
-    "Take-Two reiterated the console launch and described PC as increasingly important in general, but announced no GTA VI PC platform, date, or window.",
-    "The US and New Zealand PlayStation Store pages still show 05:00 UTC on November 19 and 11:00 UTC on November 18 respectively; preload and code-in-box terms remain published.",
-    "PS5 Pro scarcity and community buy-or-wait discussion are purchase context; no official source says a Pro is required or supplies a unique GTA VI performance promise."
+    "The US and New Zealand PlayStation Store pages still show their digital PS5 timestamps; PlayStation labels the game PS5 Pro Enhanced, but does not publish a Pro performance target or requirement.",
+    "Rockstar Support still lists November 12 preload and a code-in-box physical version; the soundtrack and DualSense campaigns remain launch activity, not a guarantee.",
+    "Take-Two’s general PC comments and fresh editorial coverage supply no official GTA VI PC platform, date, or window.",
+    "A September 20 report about old rough GTA VI map material is unofficial historical context, not evidence of a current build or schedule change."
   ],
   "uncertainty": [
     "An official commitment is not a guarantee; two earlier official date movements remain in the record.",
-    "The album, preorders, localization, physical logistics, and hardware marketing show launch activity but do not prove readiness or freeze the date.",
     "PlayStation Store timestamps are operational metadata for digital PS5 listings and may change; they do not establish Xbox timing.",
-    "Take-Two’s PC comments describe general strategy, not a GTA VI PC commitment; no official PC platform or window exists in the checked materials.",
-    "Retail stock, resale prices, and community hardware discussion are volatile and self-selected; no first-party pool analytics or revenue signal exists."
+    "PS5 Pro Enhanced is an official label, but no checked source publishes a performance target or says Pro ownership is required.",
+    "Take-Two’s PC comments, editorial forecasts, and community discussion do not create an official PC platform, date, or window.",
+    "The old archive report concerns rough early material and supplies no current schedule evidence; no first-party pool analytics or revenue signal exists."
   ],
-  "checked_at": "2026-09-19T00:10:25Z",
+  "checked_at": "2026-09-23T00:15:10Z",
   "meaningfully_updated_at": "2026-09-19T00:24:33Z",
-  "freshness_note": "Checked September 19, 2026. Recheck after any Rockstar, Take-Two, platform-store, Xbox timing, PC, hardware, or material schedule update."
+  "freshness_note": "Checked September 23, 2026. Recheck after any Rockstar, Take-Two, platform-store, Xbox timing, PC, PS5 Pro performance, or material schedule update."
 }
