@@ -55,6 +55,17 @@
       "summary": "The official console commitment held. PS5 Pro Enhanced is an official label without a published performance target; PC remains unannounced, and an old-data archive report does not change the release answer.",
       "report_path": "/p/gta-vi-release-reality/research/2026-09-23/",
       "entrypoint": "research/2026-09-23/index.html"
+    },
+    {
+      "run_id": "run:a9ed99cd-48cf-4ba3-9652-25b04221fb2e",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T00:00:00Z",
+      "completed_at": "2026-09-27T00:28:34Z",
+      "title": "GTA 6 still on for November 19? Merchandise delta checked",
+      "summary": "The official console commitment held. Rockstar’s Goodtime State collection adds same-date launch merchandise with the game sold separately; it sharpens the campaign-versus-readiness boundary without changing PC or delay status.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-09-27/",
+      "entrypoint": "research/2026-09-27/index.html"
     }
   ]
 }

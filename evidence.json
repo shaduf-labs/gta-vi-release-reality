@@ -470,6 +470,96 @@
       "accessed_at": "2026-09-23T00:15:10Z",
       "relation": "unresolved",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20260927",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for the current PS5 and Xbox Series X|S launch and features the September 24 merchandise post.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20260927",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox still lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-20260927",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation still lists November 19, 2026 for PS5 and PS5 Pro and labels the game PS5 Pro Enhanced without publishing a Pro performance target or requirement.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-20260927",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-us/concept/10000730",
+      "title": "Grand Theft Auto VI — US PlayStation Store",
+      "claim": "The US digital PS5 Store page still lists November 19, 2026 at 05:00 UTC and labels the game PS5 Pro Enhanced.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-20260927",
+      "source_type": "official platform store",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The New Zealand digital PS5 Store page still lists November 18, 2026 at 11:00 UTC, which is November 19 local time, and labels the game PS5 Pro Enhanced.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-20260927",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support still lists PS5 and Xbox Series X|S, November 12 preload, a code-in-box physical version, and account-region terms.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-newswire-20260927",
+      "source_type": "official Rockstar Newswire",
+      "source_url": "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l",
+      "title": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last",
+      "claim": "Rockstar opened pre-orders for a limited collectible set scheduled for November 19 and says Grand Theft Auto VI is sold separately.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-goodtime-store-20260927",
+      "source_type": "official Rockstar Store product page",
+      "source_url": "https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection",
+      "title": "The Goodtime State – Vice City Collection",
+      "claim": "The official product page describes a merchandise collection separate from the game; the localized product page states that the game is sold separately and the item is not eligible for free shipping.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-goodtime-store-es-20260927",
+      "source_type": "official localized Rockstar Store product page",
+      "source_url": "https://store.rockstargames.com/es/merchandise/gtavi-goodtime-state-vice-city-collection",
+      "title": "The Goodtime State – Vice City Collection — Rockstar Store",
+      "claim": "The localized official product page states that the game is sold separately and that the merchandise item is not eligible for free shipping.",
+      "accessed_at": "2026-09-27T00:13:04Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
