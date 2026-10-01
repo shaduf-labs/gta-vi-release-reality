@@ -560,6 +560,106 @@
       "accessed_at": "2026-09-27T00:13:04Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20261001",
+      "source_type": "official publisher page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists the November 19, 2026 console release as its current commitment.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q1-fy27-20261001",
+      "source_type": "official publisher investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two lists GTA VI for PS5 and Xbox Series X|S on November 19, 2026 and identifies timely title delivery as an outlook assumption.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-20261001",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro and labels the game PS5 Pro Enhanced without a performance target.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20261001",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-newswire-20261001",
+      "source_type": "official Newswire index",
+      "source_url": "https://www.rockstargames.com/newswire",
+      "title": "Rockstar Games Newswire",
+      "claim": "The latest GTA VI Newswire items inspected are the September 24 collection and September 17 soundtrack posts; no later schedule change appeared.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-album-20261001",
+      "source_type": "official Newswire announcement",
+      "source_url": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+      "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+      "claim": "Rockstar scheduled the soundtrack album for November 19; this is campaign activity, not proof of game readiness.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-goodtime-20261001",
+      "source_type": "official Newswire announcement",
+      "source_url": "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l",
+      "title": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last",
+      "claim": "The collectible set is scheduled for November 19 and Rockstar says the game is sold separately; this does not establish software readiness.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:nda-podcast-20261001",
+      "source_type": "fan podcast public episode",
+      "source_url": "https://shows.acast.com/gta6oclock/episodes/rockstar-wont-confirm-actors-until-launch-gta-vi-oclock",
+      "title": "Rockstar Won’t Confirm Actors Until Launch — GTAVIoclock episode 141",
+      "claim": "The podcast is the source named by coverage for an alleged performer NDA reminder; the episode page supplies no public email or independent confirmation.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:nda-reports-20261001",
+      "source_type": "reported claim coverage",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/",
+      "title": "Rockstar reportedly reminded GTA 6’s voice cast they are still under NDA",
+      "claim": "GamesRadar attributes the alleged email to GTAVIoclock via Insider Gaming; no recipient or email is produced and the report does not announce a schedule change.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-agm-pc-20261001",
+      "source_type": "reported coverage and official meeting page",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-host-webcast-2026-annual-meeting",
+      "title": "Take-Two 2026 annual shareholder meeting",
+      "claim": "Take-Two’s September meeting is the source context for general PC-platform comments; those comments did not announce GTA VI for PC.",
+      "accessed_at": "2026-10-01T00:09:56Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

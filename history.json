@@ -66,6 +66,17 @@
       "summary": "The official console commitment held. Rockstar’s Goodtime State collection adds same-date launch merchandise with the game sold separately; it sharpens the campaign-versus-readiness boundary without changing PC or delay status.",
       "report_path": "/p/gta-vi-release-reality/research/2026-09-27/",
       "entrypoint": "research/2026-09-27/index.html"
+    },
+    {
+      "run_id": "run:3f962129-14de-4ac0-988d-8301033839e3",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-01T00:00:00Z",
+      "completed_at": "2026-10-01T00:21:17Z",
+      "title": "GTA 6 November 19 date checked; performer NDA claim reviewed",
+      "summary": "The official console commitment remains unchanged. A performer NDA report traces to one podcast and has no independent confirmation; it does not change the date or the PC unknown.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-01/",
+      "entrypoint": "research/2026-10-01/index.html"
     }
   ]
 }

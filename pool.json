@@ -18,6 +18,10 @@
     "Release date"
   ],
   "related_pools": [],
+  "categories": [
+    "gaming"
+  ],
+  "taxonomy_version": "1.0.0",
   "release_state": "live",
-  "latest_research_at": "2026-09-27T00:28:34Z"
+  "latest_research_at": "2026-10-01T00:21:17Z"
 }
