@@ -77,6 +77,17 @@
       "summary": "The official console commitment remains unchanged. A performer NDA report traces to one podcast and has no independent confirmation; it does not change the date or the PC unknown.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-01/",
       "entrypoint": "research/2026-10-01/index.html"
+    },
+    {
+      "run_id": "run:deb734a6-837d-4faf-bed4-90653878831e",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-05T00:00:00Z",
+      "completed_at": "2026-10-05T00:39:28Z",
+      "title": "GTA VI still listed for November 19; order timing clarified",
+      "summary": "The official console commitment remains November 19. A November 18 Miami HEAT promotion adds campaign context, while Rockstar Support separates November 12 preload availability from retailer-specific delivery. PC remains unannounced; the reported NDA claim remains unverified.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-05/",
+      "entrypoint": "research/2026-10-05/index.html"
     }
   ]
 }

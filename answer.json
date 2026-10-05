@@ -1,29 +1,31 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As of October 1, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found. PlayStation lists PS5 Pro Enhanced but publishes no performance target or Pro requirement. PC has no official platform or date. A recent performer NDA claim is attributed to one podcast and has no independent confirmation; it does not change the release record.",
+  "current_answer": "As of October 5, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No official schedule change was found in the sources checked. The Miami HEAT and Rockstar announced a November 18 event; that confirms planned promotion, not game readiness or a guaranteed launch. No official PC platform or date is listed. The performer NDA report still traces to one podcast and does not change the release record.",
   "catalogue_card": {
     "question": "Is GTA 6 still listed for November 19?",
-    "text": "Yes. Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. A new performer NDA report traces to one podcast and has no independent confirmation. It does not change the date; PC remains unannounced."
+    "text": "Yes. Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. A new Miami HEAT–Rockstar event is scheduled for November 18, but it is marketing, not proof that the game is finished. PC remains unannounced."
   },
   "summary": [
     "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S.",
-    "No new official schedule change was found in the checked Rockstar, Take-Two, PlayStation, Xbox, and Support pages.",
-    "Rockstar’s September 24 Goodtime State collection and September 17 soundtrack are scheduled for November 19; the game is sold separately from the collection. These products show commercial activity, not software readiness.",
-    "PlayStation labels the game PS5 Pro Enhanced but publishes no performance target or Pro requirement; PC has no official platform or date.",
-    "A report about a performer NDA reminder traces to one podcast. Reviewed coverage gives no email, named recipient, or independent confirmation.",
-    "Take-Two’s general PC strategy comments do not announce GTA VI for PC."
+    "No official date or platform change was found in the source set checked on October 5.",
+    "Miami HEAT and Rockstar announced “A Night in Vice City” for November 18, the eve of the target date. It supports campaign activity, not delivery confidence.",
+    "Take-Two’s August outlook still names the launch date and lists timely delivery among its assumptions. Two previous public date movements also limit certainty.",
+    "No official PC platform or date appears. PlayStation labels PS5 Pro Enhanced but publishes no performance target or Pro requirement.",
+    "Rockstar says the physical box contains a download code and may be available from November 12 for preload. Check a named retailer for its own dispatch and delivery promise; play is still scheduled for November 19.",
+    "The alleged performer NDA reminder still traces through one podcast; it is not an official schedule statement or independent evidence.",
+    "The analytics broker was unavailable, so pool traffic, source clicks, decisions, return use, and revenue remain unknown."
   ],
   "uncertainty": [
-    "November 19 is an official console commitment, not a delivery guarantee; two previous official date movements remain relevant.",
-    "PS5 Store unlock times are operational data and may change; they do not establish Xbox timing.",
-    "PS5 Pro Enhanced is an official label, but no checked source gives a performance target or says a Pro is required.",
-    "Soundtrack and merchandise plans show launch activity, not that the game is finished.",
-    "The performer NDA story has one reported source chain and no independent confirmation in the checked articles.",
-    "No official PC platform or date is published; general company PC strategy and historical patterns are not GTA VI announcements.",
-    "The first-party analytics broker was unavailable; no pool visit, return use, decision, or revenue is observed."
+    "November 19 is an official console commitment, not a delivery guarantee; two earlier official date movements remain relevant.",
+    "The November 18 promotion and other launch plans confirm campaign activity, not a finished build or certainty that the date cannot move.",
+    "Take-Two’s outlook is forward-looking and includes timely delivery as an assumption.",
+    "The physical-box availability guidance does not promise a named retailer’s individual order delivery.",
+    "No official PC platform or date is published; historical port timing and general company PC strategy are not GTA VI commitments.",
+    "The performer NDA claim has one reported source chain and no independent confirmation in the reviewed articles.",
+    "The analytics broker was unavailable; no first-party pool use or revenue was observed."
   ],
-  "checked_at": "2026-10-01T00:09:56Z",
+  "checked_at": "2026-10-05T00:15:02Z",
   "meaningfully_updated_at": "2026-09-19T00:24:33Z",
-  "freshness_note": "Checked October 1, 2026. The official console date remains November 19. Recheck after a new Rockstar or Take-Two schedule post, material platform listing change, PC announcement, or Xbox release-time statement. Treat single-source claims and launch products as context unless they change the release record."
+  "freshness_note": "Checked October 5, 2026. The official console date remains November 19. The latest GTA VI posts featured on Rockstar’s page are dated September 24 and September 17; the October 2 Miami HEAT event announcement is campaign activity, not a schedule change. Recheck after a Rockstar or Take-Two date statement, a material platform listing change, a PC announcement, or an Xbox timing update."
 }

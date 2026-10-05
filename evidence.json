@@ -660,6 +660,106 @@
       "accessed_at": "2026-10-01T00:09:56Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20261005",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for PS5 and Xbox Series X|S; no later GTA VI schedule-change post appeared in the checked Rockstar Newswire surface.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-newswire-20261005",
+      "source_type": "official news index",
+      "source_url": "https://www.rockstargames.com/newswire",
+      "title": "Rockstar Newswire",
+      "claim": "The checked featured GTA VI posts were dated September 24, September 17, and August 27; the inspected surface showed no later schedule-change announcement.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q1-20261005",
+      "source_type": "publisher investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two’s August outlook still names November 19, 2026 for PS5 and Xbox Series X|S, with timely delivery listed among its assumptions.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-20261005",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-20261005",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:miami-heat-event-20261005",
+      "source_type": "official team event page",
+      "source_url": "https://www.nba.com/heat/uniforms/2627-heat-vice-city-uniform-collection?pubDate=20261002",
+      "title": "Miami HEAT — A Night in Vice City",
+      "claim": "Miami HEAT and Rockstar announced a November 18 promotional event; this supports campaign activity, not software readiness.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-20261005",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Rockstar Support — platform and version terms",
+      "claim": "Rockstar says the boxed physical version contains a download code, with physical availability expected from November 12 for shipping or pickup; individual retailer order delivery is not guaranteed.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-countdown-20261005",
+      "source_type": "community discussion",
+      "source_url": "https://www.reddit.com/r/GTAVI/comments/1wura6l/we_are_officially_entering_the_final_countdown/",
+      "title": "r/GTAVI countdown discussion",
+      "claim": "An October 1 fan discussion framed the target as the following month; it is a self-selected example, not a representative demand measure or schedule signal.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-retailer-question-20261005",
+      "source_type": "community discussion",
+      "source_url": "https://www.reddit.com/r/gamingportugal/comments/1wvu74t/data_de_envio_do_gta_6_f%C3%ADsico_nas_lojas_nacionais/",
+      "title": "r/gamingportugal delivery question",
+      "claim": "An October 3 post asks whether a boxed-code order from a local retailer will dispatch on November 12 or November 19; it does not establish retailer policy.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesradar-nda-20261005",
+      "source_type": "games reporting",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/",
+      "title": "GamesRadar report on the NDA claim",
+      "claim": "The report attributes the performer NDA claim to Insider Gaming and the GTAVIoclock podcast; it does not provide the alleged email or independent confirmation.",
+      "accessed_at": "2026-10-05T00:15:02Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }
