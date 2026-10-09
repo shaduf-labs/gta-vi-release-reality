@@ -88,6 +88,17 @@
       "summary": "The official console commitment remains November 19. A November 18 Miami HEAT promotion adds campaign context, while Rockstar Support separates November 12 preload availability from retailer-specific delivery. PC remains unannounced; the reported NDA claim remains unverified.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-05/",
       "entrypoint": "research/2026-10-05/index.html"
+    },
+    {
+      "run_id": "run:2d61ee37-8047-4192-8b89-fcdcafe886e6",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T00:00:00Z",
+      "completed_at": "2026-10-09T00:12:32Z",
+      "title": "GTA 6 PC cloud route corrected; November 19 remains listed",
+      "summary": "The official console date remains November 19. Xbox CSO Matthew Ball ruled out exclusive streaming and PC streaming, correcting a reported launch-day PC route. Native PC timing and other cloud-device support remain unknown.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-09/",
+      "entrypoint": "research/2026-10-09/index.html"
     }
   ]
 }

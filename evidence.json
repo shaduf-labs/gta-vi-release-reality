@@ -760,6 +760,86 @@
       "accessed_at": "2026-10-05T00:15:02Z",
       "relation": "unresolved",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261009",
+      "source_type": "official publisher product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar continues to list November 19, 2026 for PS5 and Xbox Series X|S; the current game page shows no PC platform or date.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261009",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S; its product page does not specify cloud availability or supported devices.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261009",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-status-20261009",
+      "source_type": "official investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two’s latest checked Q1 fiscal 2027 release lists November 19, 2026 for PS5 and Xbox Series X|S; it predates this run and is forward-looking.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:verge-cloud-correction-20261009",
+      "source_type": "technology reporting with correction",
+      "source_url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "title": "Xbox has secured GTA 6 streaming rights — The Verge",
+      "claim": "The Verge’s October 6 report was later corrected: the alleged deal is not exclusive and GTA VI will not be streamed to PC. The article says the remaining cloud arrangement is unclear.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:shacknews-cloud-clarification-20261009",
+      "source_type": "gaming news report quoting Xbox CSO",
+      "source_url": "https://www.shacknews.com/article/150935/xbox-clarifies-that-cloud-gaming-will-not-allow-gta-6-to-be-streamed-on-pc",
+      "title": "Xbox clarifies PC streaming — Shacknews",
+      "claim": "Shacknews reproduces Xbox chief strategy officer Matthew Ball’s statement that GTA VI will not stream exclusively or to PC; this is coverage of the same statement, not independent confirmation.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-initial-cloud-report-20261009",
+      "source_type": "community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1wzgetq/xbox_has_secured_exclusive_gta_6_streaming_rights/",
+      "title": "r/GTA6 discussion of cloud streaming report",
+      "claim": "A self-selected thread interpreted the reported rights as possible PC play at launch; it documents one audience query, not official terms or broad demand.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-cloud-correction-20261009",
+      "source_type": "community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1x07r60/the_xbox_streaming_reports_were_false/",
+      "title": "r/GTA6 discussion of the Xbox clarification",
+      "claim": "A follow-up thread shared the Xbox CSO statement; the thread is self-selected and does not measure general belief or pool use.",
+      "accessed_at": "2026-10-09T00:07:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

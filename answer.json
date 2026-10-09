@@ -1,31 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As of October 5, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No official schedule change was found in the sources checked. The Miami HEAT and Rockstar announced a November 18 event; that confirms planned promotion, not game readiness or a guaranteed launch. No official PC platform or date is listed. The performer NDA report still traces to one podcast and does not change the release record.",
+  "current_answer": "As checked on October 9, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S; no new official date change was found. Xbox chief strategy officer Matthew Ball said the game will not stream exclusively or to PC, correcting the reported launch-day PC route. No native PC version, date, or window is announced. Whether any cloud service or non-PC device will support the game remains unspecified; this correction is not a release-readiness signal.",
   "catalogue_card": {
-    "question": "Is GTA 6 still listed for November 19?",
-    "text": "Yes. Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. A new Miami HEAT–Rockstar event is scheduled for November 18, but it is marketing, not proof that the game is finished. PC remains unannounced."
+    "question": "Can GTA 6 still reach PC through Xbox Cloud Gaming?",
+    "text": "No PC stream, says Xbox’s chief strategy officer. The November 19 PS5 and Xbox Series X|S date still stands; native PC timing and other cloud-device support remain unknown."
   },
   "summary": [
-    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S.",
-    "No official date or platform change was found in the source set checked on October 5.",
-    "Miami HEAT and Rockstar announced “A Night in Vice City” for November 18, the eve of the target date. It supports campaign activity, not delivery confidence.",
-    "Take-Two’s August outlook still names the launch date and lists timely delivery among its assumptions. Two previous public date movements also limit certainty.",
-    "No official PC platform or date appears. PlayStation labels PS5 Pro Enhanced but publishes no performance target or Pro requirement.",
-    "Rockstar says the physical box contains a download code and may be available from November 12 for preload. Check a named retailer for its own dispatch and delivery promise; play is still scheduled for November 19.",
-    "The alleged performer NDA reminder still traces through one podcast; it is not an official schedule statement or independent evidence.",
-    "The analytics broker was unavailable, so pool traffic, source clicks, decisions, return use, and revenue remain unknown."
+    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. No new official date change was found.",
+    "Xbox CSO Matthew Ball said GTA VI will not stream exclusively or to PC, correcting a report that had implied a launch-day PC cloud route.",
+    "No native PC version, date, or window has been announced. The Xbox statement does not confirm cloud availability or supported devices beyond ruling out PC streaming.",
+    "The cloud clarification changes platform-access information, not the console date or evidence of software readiness.",
+    "Two previous official date movements remain relevant; November 19 is a commitment, not a guarantee.",
+    "First-party pool analytics was unavailable, so audience behavior and usefulness remain unknown."
   ],
   "uncertainty": [
-    "November 19 is an official console commitment, not a delivery guarantee; two earlier official date movements remain relevant.",
-    "The November 18 promotion and other launch plans confirm campaign activity, not a finished build or certainty that the date cannot move.",
-    "Take-Two’s outlook is forward-looking and includes timely delivery as an assumption.",
-    "The physical-box availability guidance does not promise a named retailer’s individual order delivery.",
-    "No official PC platform or date is published; historical port timing and general company PC strategy are not GTA VI commitments.",
-    "The performer NDA claim has one reported source chain and no independent confirmation in the reviewed articles.",
-    "The analytics broker was unavailable; no first-party pool use or revenue was observed."
+    "November 19 remains an official console commitment, not a guarantee; two prior target movements remain relevant.",
+    "No native PC version, date, or window is announced.",
+    "Xbox has ruled out exclusive streaming and streaming to PC, but cloud service availability and other device support are not specified.",
+    "The Verge’s initial exclusive-rights report relied on unnamed sources and was later corrected; repeated coverage is not independent confirmation.",
+    "Official launch marketing and logistics do not prove build completion.",
+    "The analytics broker was unavailable; visits, source checks, decisions, return use, and revenue were not observed."
   ],
-  "checked_at": "2026-10-05T00:15:02Z",
-  "meaningfully_updated_at": "2026-09-19T00:24:33Z",
-  "freshness_note": "Checked October 5, 2026. The official console date remains November 19. The latest GTA VI posts featured on Rockstar’s page are dated September 24 and September 17; the October 2 Miami HEAT event announcement is campaign activity, not a schedule change. Recheck after a Rockstar or Take-Two date statement, a material platform listing change, a PC announcement, or an Xbox timing update."
+  "checked_at": "2026-10-09T00:07:05Z",
+  "meaningfully_updated_at": "2026-10-09T00:07:05Z",
+  "freshness_note": "Checked October 9, 2026. The console date remains November 19. A report about exclusive Xbox cloud rights and PC access was corrected after Xbox CSO Matthew Ball ruled out exclusivity and PC streaming. Native PC timing and remaining cloud access details are unknown. Recheck after an official date statement, native PC listing, or published Xbox cloud-service/device terms."
 }

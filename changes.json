@@ -48,6 +48,12 @@
       "changed_at": "2026-10-05T00:39:28Z",
       "summary": "Rechecked the unchanged November 19 console commitment; added the November 18 Miami HEAT event as marketing context and clarified that November 12 physical availability is not a retailer-specific delivery promise.",
       "path": "/p/gta-vi-release-reality/research/2026-10-05/"
+    },
+    {
+      "change_id": "change:20261009-cloud-correction-and-pc-scope",
+      "changed_at": "2026-10-09T00:11:54Z",
+      "summary": "Rechecked the November 19 console commitment; corrected the reported Xbox cloud/PC route using Xbox CSO Matthew Ball’s statement; separated native PC timing and other cloud-device support as unknown.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-09/"
     }
   ]
 }
