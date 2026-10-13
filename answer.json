@@ -1,28 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As checked on October 9, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S; no new official date change was found. Xbox chief strategy officer Matthew Ball said the game will not stream exclusively or to PC, correcting the reported launch-day PC route. No native PC version, date, or window is announced. Whether any cloud service or non-PC device will support the game remains unspecified; this correction is not a release-readiness signal.",
+  "current_answer": "As checked on October 13, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found in the checked sources. Rockstar’s October 8 radio and podcast announcement adds game detail, not proof that the build is finished. No native PC version, date, or window has been announced. Xbox has ruled out the reported exclusive and PC-streaming route; other cloud service and device support remains unspecified.",
   "catalogue_card": {
-    "question": "Can GTA 6 still reach PC through Xbox Cloud Gaming?",
-    "text": "No PC stream, says Xbox’s chief strategy officer. The November 19 PS5 and Xbox Series X|S date still stands; native PC timing and other cloud-device support remain unknown."
+    "question": "Did GTA 6’s October 8 radio reveal change the November 19 date?",
+    "text": "No. Rockstar still lists November 19, 2026 for PS5 and Xbox Series X|S. The radio and podcast preview adds game detail, not proof that the build is finished."
   },
   "summary": [
-    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. No new official date change was found.",
-    "Xbox CSO Matthew Ball said GTA VI will not stream exclusively or to PC, correcting a report that had implied a launch-day PC cloud route.",
-    "No native PC version, date, or window has been announced. The Xbox statement does not confirm cloud availability or supported devices beyond ruling out PC streaming.",
-    "The cloud clarification changes platform-access information, not the console date or evidence of software readiness.",
-    "Two previous official date movements remain relevant; November 19 is a commitment, not a guarantee.",
-    "First-party pool analytics was unavailable, so audience behavior and usefulness remain unknown."
+    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S; no new official date change was found.",
+    "Rockstar’s October 8 radio and podcast preview confirms new game details. It does not prove build completion or make the date a guarantee.",
+    "No native PC version, date, or window has been announced. Xbox has ruled out the reported exclusive and PC-streaming route; other cloud access remains unspecified.",
+    "ESRB lists M for PS5 and Xbox Series. The Australian record is R 18+ in a Demonstration (Self Selected) category; Xbox and PlayStation page copy does not match the ESRB record.",
+    "Two earlier official date movements remain relevant; November 19 is a commitment, not a guarantee.",
+    "First-party pool analytics was unavailable; audience behavior and usefulness remain unknown."
   ],
   "uncertainty": [
-    "November 19 remains an official console commitment, not a guarantee; two prior target movements remain relevant.",
-    "No native PC version, date, or window is announced.",
-    "Xbox has ruled out exclusive streaming and streaming to PC, but cloud service availability and other device support are not specified.",
-    "The Verge’s initial exclusive-rights report relied on unnamed sources and was later corrected; repeated coverage is not independent confirmation.",
-    "Official launch marketing and logistics do not prove build completion.",
-    "The analytics broker was unavailable; visits, source checks, decisions, return use, and revenue were not observed."
+    "November 19 remains an official console commitment, not a delivery guarantee; two earlier official target movements remain relevant.",
+    "No official native PC version, date, or window has been announced.",
+    "Xbox ruled out exclusive streaming and streaming to PC; remaining cloud availability and device terms are not specified.",
+    "Official promotion and rating-board entries do not prove build completion.",
+    "The platform pages show inconsistent age-rating metadata; use the rating authority and preserve jurisdiction/category.",
+    "The first-party analytics broker was unavailable; pool visits, source inspections, decisions, return use, and revenue remain unknown."
   ],
-  "checked_at": "2026-10-09T00:07:05Z",
+  "checked_at": "2026-10-13T00:19:50Z",
   "meaningfully_updated_at": "2026-10-09T00:07:05Z",
-  "freshness_note": "Checked October 9, 2026. The console date remains November 19. A report about exclusive Xbox cloud rights and PC access was corrected after Xbox CSO Matthew Ball ruled out exclusivity and PC streaming. Native PC timing and remaining cloud access details are unknown. Recheck after an official date statement, native PC listing, or published Xbox cloud-service/device terms."
+  "freshness_note": "Checked October 13, 2026. The console listings remain November 19. Rockstar’s October 8 radio and podcast post was live before the previous report but was not recorded there; it adds announced content, not release-readiness evidence. Recheck for an official date statement, a native PC listing, cloud-service terms, or changes to rating-board and platform metadata."
 }

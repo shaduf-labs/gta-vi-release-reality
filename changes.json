@@ -54,6 +54,12 @@
       "changed_at": "2026-10-09T00:11:54Z",
       "summary": "Rechecked the November 19 console commitment; corrected the reported Xbox cloud/PC route using Xbox CSO Matthew Ball’s statement; separated native PC timing and other cloud-device support as unknown.",
       "path": "/p/gta-vi-release-reality/research/2026-10-09/"
+    },
+    {
+      "change_id": "change:20261013-content-and-rating-recheck",
+      "changed_at": "2026-10-13T00:19:50Z",
+      "summary": "Rechecked the November 19 console commitment; added Rockstar’s October 8 radio and podcast reveal as content detail, documented rating-board entries and stale platform-page metadata, and kept confidence unchanged.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-13/"
     }
   ]
 }

@@ -840,6 +840,76 @@
       "accessed_at": "2026-10-09T00:07:05Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261013",
+      "source_type": "official publisher product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar lists November 19, 2026 for PS5 and Xbox Series X|S; the checked game page features October 8 content updates and no later date-change notice was found in the checked publisher surface.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-music-20261013",
+      "source_type": "official publisher music page",
+      "source_url": "https://www.rockstargames.com/VI/music",
+      "title": "The Music of Grand Theft Auto VI",
+      "claim": "Rockstar previews six radio stations and on-demand podcasts for use in vehicles and on foot; the complete roster is not listed as six stations, and the separate 34-track album is scheduled for November 19.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261013",
+      "source_type": "official platform product page",
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S. Its page still displays Rating Pending.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261013",
+      "source_type": "official platform product page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro. Its FAQ still says age ratings are unconfirmed.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-status-20261013",
+      "source_type": "official publisher investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two’s August 7, 2026 Q1 2027 results reaffirm the November 19 console launch; the statement is forward-looking and predates this check.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:esrb-rating-20261013",
+      "source_type": "official age-rating authority",
+      "source_url": "https://www.esrb.org/ratings/41627/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — ESRB",
+      "claim": "ESRB lists GTA VI as M for Mature 17+ for PlayStation 5 and Xbox Series.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:australian-rating-20261013",
+      "source_type": "official classification authority",
+      "source_url": "https://www.classification.gov.au/titles/grand-theft-auto-vi-12",
+      "title": "Grand Theft Auto VI — Australian Classification",
+      "claim": "The Australian record lists R 18+ dated August 27, 2026, under the category Demonstration (Self Selected); that category should remain explicit.",
+      "accessed_at": "2026-10-13T00:19:50Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
