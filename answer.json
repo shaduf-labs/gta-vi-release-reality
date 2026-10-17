@@ -1,28 +1,29 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As checked on October 13, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found in the checked sources. Rockstar’s October 8 radio and podcast announcement adds game detail, not proof that the build is finished. No native PC version, date, or window has been announced. Xbox has ruled out the reported exclusive and PC-streaming route; other cloud service and device support remains unspecified.",
+  "current_answer": "As checked on October 17, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found; two earlier official target movements remain relevant to uncertainty. Rockstar’s October 15 launch trailer confirms active promotion, not build completion. No official native PC version, date, or window has been announced. GamesBeat reported a Q1 2027 PC plan based on four anonymous sources; follow-up coverage checked traces to that report and is not independent confirmation. This is relevant to PC-first buyers but does not change the official console commitment. A separate anonymous full-build threat is financially incentivized and unverified; no independent verification of a complete build was found.",
   "catalogue_card": {
-    "question": "Did GTA 6’s October 8 radio reveal change the November 19 date?",
-    "text": "No. Rockstar still lists November 19, 2026 for PS5 and Xbox Series X|S. The radio and podcast preview adds game detail, not proof that the build is finished."
+    "question": "Does the Q1 2027 PC report mean GTA 6 is confirmed for PC by March?",
+    "text": "No. GamesBeat reported a Q1 2027 plan from four anonymous sources, but Rockstar and Take-Two have not announced a PC version or date. Follow-up coverage repeats the GamesBeat report and is not independent confirmation."
   },
   "summary": [
     "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S; no new official date change was found.",
-    "Rockstar’s October 8 radio and podcast preview confirms new game details. It does not prove build completion or make the date a guarantee.",
-    "No native PC version, date, or window has been announced. Xbox has ruled out the reported exclusive and PC-streaming route; other cloud access remains unspecified.",
-    "ESRB lists M for PS5 and Xbox Series. The Australian record is R 18+ in a Demonstration (Self Selected) category; Xbox and PlayStation page copy does not match the ESRB record.",
-    "Two earlier official date movements remain relevant; November 19 is a commitment, not a guarantee.",
-    "First-party pool analytics was unavailable; audience behavior and usefulness remain unknown."
+    "GamesBeat reported a Q1 2027 PC plan citing four anonymous sources. Rockstar and Take-Two have not announced a PC version or date, and follow-up coverage is not independent corroboration.",
+    "Rockstar published a launch trailer on October 15. It confirms promotion, not build completion or a guaranteed console date.",
+    "A self-selected discussion shows some readers weighing a console purchase against waiting for PC; it does not establish broad demand or pool use.",
+    "A separate anonymous full-build threat is financially incentivized and unverified; no independent verification of a complete build was found.",
+    "First-party analytics were unavailable; reader behavior and product value remain unknown."
   ],
   "uncertainty": [
     "November 19 remains an official console commitment, not a delivery guarantee; two earlier official target movements remain relevant.",
+    "The Q1 2027 PC window is an unconfirmed GamesBeat report from four anonymous sources; the identities and source independence are not publicly assessable.",
     "No official native PC version, date, or window has been announced.",
-    "Xbox ruled out exclusive streaming and streaming to PC; remaining cloud availability and device terms are not specified.",
-    "Official promotion and rating-board entries do not prove build completion.",
-    "The platform pages show inconsistent age-rating metadata; use the rating authority and preserve jurisdiction/category.",
-    "The first-party analytics broker was unavailable; pool visits, source inspections, decisions, return use, and revenue remain unknown."
+    "Rockstar’s October 15 launch trailer confirms promotion, not game completion or delivery readiness.",
+    "A separate full-build claim has a financial incentive and no independent verification; do not treat it as readiness evidence.",
+    "Take-Two’s November 9 results date is a future checkpoint, not release evidence.",
+    "The read-only analytics broker was unavailable; visits, source inspections, decisions, returns, and revenue remain unknown."
   ],
-  "checked_at": "2026-10-13T00:19:50Z",
-  "meaningfully_updated_at": "2026-10-09T00:07:05Z",
-  "freshness_note": "Checked October 13, 2026. The console listings remain November 19. Rockstar’s October 8 radio and podcast post was live before the previous report but was not recorded there; it adds announced content, not release-readiness evidence. Recheck for an official date statement, a native PC listing, cloud-service terms, or changes to rating-board and platform metadata."
+  "checked_at": "2026-10-17T21:04:01Z",
+  "meaningfully_updated_at": "2026-10-17T21:04:01Z",
+  "freshness_note": "Checked October 17, 2026. The official console listing remains November 19. A new GamesBeat report says Q1 2027 PC, citing four anonymous sources; it is not an official commitment and follow-up coverage traces to the same report. Rockstar’s October 15 launch trailer does not establish readiness. Recheck official publisher and platform pages, independent sourcing, and the November 9 Take-Two results."
 }

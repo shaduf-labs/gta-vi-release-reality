@@ -110,6 +110,17 @@
       "summary": "The current console commitment is unchanged. Rockstar’s October 8 radio and podcast preview adds content detail, while rating-board entries do not provide release-readiness evidence.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-13/",
       "entrypoint": "research/2026-10-13/index.html"
+    },
+    {
+      "run_id": "report-679d2fb8453a232b1d8f966b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-17T20:57:51Z",
+      "completed_at": "2026-10-17T21:06:01Z",
+      "title": "GTA 6 PC report: Q1 2027 is not confirmed",
+      "summary": "The official November 19 console commitment is unchanged. GamesBeat reported a Q1 2027 PC plan citing four anonymous sources; follow-up coverage repeats that source chain. The October 15 launch trailer confirms promotion, not build completion.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-17/",
+      "entrypoint": "research/2026-10-17/index.html"
     }
   ]
 }

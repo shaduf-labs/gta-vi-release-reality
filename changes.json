@@ -60,6 +60,12 @@
       "changed_at": "2026-10-13T00:19:50Z",
       "summary": "Rechecked the November 19 console commitment; added Rockstar’s October 8 radio and podcast reveal as content detail, documented rating-board entries and stale platform-page metadata, and kept confidence unchanged.",
       "path": "/p/gta-vi-release-reality/research/2026-10-13/"
+    },
+    {
+      "change_id": "change:20261017-pc-report-and-trailer-recheck",
+      "changed_at": "2026-10-17T21:04:01Z",
+      "summary": "Rechecked the unchanged November 19 console commitment; added the unconfirmed GamesBeat Q1 2027 PC report with source limits, assessed the October 15 launch trailer as promotion rather than readiness evidence, and kept an anonymous full-build threat unverified.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-17/"
     }
   ]
 }

@@ -910,6 +910,106 @@
       "accessed_at": "2026-10-13T00:19:50Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261017",
+      "source_type": "official publisher product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar continues to list November 19, 2026 for PS5 and Xbox Series X|S. The checked page features the October 15 launch trailer and no new date change.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-20261017",
+      "source_type": "official publisher support page",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support lists PS5 and Xbox Series X|S; no native PC version or date appears on the checked page.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-status-20261017",
+      "source_type": "official investor relations",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two’s latest checked results release lists November 19, 2026 for the console launch; it is a forward-looking statement.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:launch-trailer-20261017",
+      "source_type": "official publisher trailer page",
+      "source_url": "https://www.rockstargames.com/VI/launch-trailer",
+      "title": "Grand Theft Auto VI Launch Trailer",
+      "claim": "Rockstar published a launch trailer page dated October 15, 2026; this supports active promotion, not build completion or date certainty.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesbeat-pc-q1-20261017",
+      "source_type": "gaming trade reporting",
+      "source_url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 — GamesBeat",
+      "claim": "GamesBeat reports a Q1 2027 PC plan citing four anonymous sources familiar with studio plans; no official PC announcement is made.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pcgamer-pc-followup-20261017",
+      "source_type": "gaming editorial follow-up",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+      "title": "PC Gamer coverage of the PC report",
+      "claim": "PC Gamer covers GamesBeat’s report but does not supply independent sourcing; the PC window remains unconfirmed.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:cyberleek-threat-20261017",
+      "source_type": "gaming technology reporting",
+      "source_url": "https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m",
+      "title": "Tom’s Hardware coverage of the anonymous build threat",
+      "claim": "An anonymous account reportedly tied a claimed full-build release to a token market-cap target. The financial incentive is direct; no complete build was independently verified.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pcgamer-cyberleek-20261017",
+      "source_type": "gaming editorial assessment",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/who-is-cyberleek-what-we-know-about-the-gta-6-leaker/",
+      "title": "PC Gamer assessment of the account and earlier clips",
+      "claim": "The article describes earlier clips as possible access to a playable build or part, not proof of a complete game.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-pc-choice-20261017",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/",
+      "title": "r/Games discussion of the PC report",
+      "claim": "Some commenters ask whether to buy a console or wait for PC; the thread is not representative demand, purchase data, or evidence of pool use.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-date-20261017",
+      "source_type": "official investor relations notice",
+      "source_url": "https://www.take2games.com/ir/press-releases?ID=1163124&c=86428&p=irol-newsArticle",
+      "title": "Take-Two Q2 FY2027 results date",
+      "claim": "Take-Two scheduled fiscal Q2 2027 results for November 9, 2026; this is a future check, not release evidence.",
+      "accessed_at": "2026-10-17T21:04:01Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
