@@ -121,6 +121,17 @@
       "summary": "The official November 19 console commitment is unchanged. GamesBeat reported a Q1 2027 PC plan citing four anonymous sources; follow-up coverage repeats that source chain. The October 15 launch trailer confirms promotion, not build completion.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-17/",
       "entrypoint": "research/2026-10-17/index.html"
+    },
+    {
+      "run_id": "report-79d20c9e36b3f64582a7408c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T00:07:00Z",
+      "completed_at": "2026-10-21T00:19:16Z",
+      "title": "“Still changing” does not establish a GTA VI delay",
+      "summary": "The November 19 console commitment remains current. Coverage reports ongoing changes without identifying their scope or schedule effect; the conditional full-build threat was reportedly withdrawn, but claims remain unverified.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-21/",
+      "entrypoint": "research/2026-10-21/index.html"
     }
   ]
 }

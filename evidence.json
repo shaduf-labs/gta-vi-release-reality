@@ -1010,6 +1010,106 @@
       "accessed_at": "2026-10-17T21:04:01Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261021",
+      "source_type": "official publisher product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar continues to list November 19, 2026 for PS5 and Xbox Series X|S. The checked page features the October 15 launch trailer; no new date change was found.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261021",
+      "source_type": "official platform product page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists November 19, 2026 for PS5 and PS5 Pro.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261021",
+      "source_type": "official platform product page",
+      "source_url": "https://www.xbox.com/en-US/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-date-20261021",
+      "source_type": "official investor relations notice",
+      "source_url": "https://www.take2games.com/ir/press-releases?ID=1163124&c=86428&p=irol-newsArticle",
+      "title": "Take-Two Q2 FY2027 results date",
+      "claim": "Take-Two scheduled fiscal Q2 2027 results for November 9, 2026; this is a future check, not release evidence.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:development-iteration-gamesradar-20261021",
+      "source_type": "gaming editorial coverage",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-still-undergoing-changes-despite-releasing-next-month-rockstar-boss-says-the-game-is-never-completely-settled/",
+      "title": "GamesRadar coverage of reported Rockstar technology director comments",
+      "claim": "Reports that Phil Hooker said the game continued to evolve and some things changed in recent months in a Bloomberg feature; the article does not establish what changed or any schedule effect.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:development-iteration-vice-20261021",
+      "source_type": "editorial context",
+      "source_url": "https://www.vice.com/en/article/gta-6-unfinished-rockstar-comments-context/",
+      "title": "Vice context on reported interview comments",
+      "claim": "Vice argues the reported statement does not establish that the game is unfinished or major features remain incomplete; this is editorial context, not a build-status check.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesbeat-pc-q1-20261021",
+      "source_type": "gaming trade reporting",
+      "source_url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 — GamesBeat",
+      "claim": "GamesBeat reports a Q1 2027 PC plan citing four anonymous sources; no official PC platform or date is announced.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:cyberleek-current-status-pcgamer-20261021",
+      "source_type": "gaming editorial coverage",
+      "source_url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
+      "title": "PC Gamer report on Cyberleek statements",
+      "claim": "Reports the anonymous account said it would not release the claimed full build after its token target was missed; this does not independently authenticate a full build.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:cyberleek-current-status-gamesradar-20261021",
+      "source_type": "gaming editorial coverage",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
+      "title": "GamesRadar report on Cyberleek threat status",
+      "claim": "Reports the conditional full-build threat was not carried out after the token target was missed; the account statements are not independent technical verification.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-iteration-discussion-20261021",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1x5nlbd/bloomberg_has_released_a_massive_article_with/",
+      "title": "r/GTA6 discussion of Bloomberg coverage",
+      "claim": "A self-selected thread includes discussion of whether the interview report suggests the game is unfinished; it does not measure general belief, demand, or pool use.",
+      "accessed_at": "2026-10-21T00:18:07Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

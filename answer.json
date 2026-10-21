@@ -1,29 +1,28 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As checked on October 17, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found; two earlier official target movements remain relevant to uncertainty. Rockstar’s October 15 launch trailer confirms active promotion, not build completion. No official native PC version, date, or window has been announced. GamesBeat reported a Q1 2027 PC plan based on four anonymous sources; follow-up coverage checked traces to that report and is not independent confirmation. This is relevant to PC-first buyers but does not change the official console commitment. A separate anonymous full-build threat is financially incentivized and unverified; no independent verification of a complete build was found.",
+  "current_answer": "As checked on October 21, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found. Coverage of a September interview reports Rockstar technology director Phil Hooker saying the game continued to evolve and some things changed in recent months; the coverage does not identify what changed or establish an unfinished build or schedule risk. No official native PC version, date, or window has been announced; GamesBeat’s Q1 2027 report remains based on four anonymous sources. Cyberleek’s conditional full-build release threat was reportedly withdrawn after its token target was missed, but the threat and a separate spoiler claim remain unverified. These findings do not change confidence in the official console commitment.",
   "catalogue_card": {
-    "question": "Does the Q1 2027 PC report mean GTA 6 is confirmed for PC by March?",
-    "text": "No. GamesBeat reported a Q1 2027 plan from four anonymous sources, but Rockstar and Take-Two have not announced a PC version or date. Follow-up coverage repeats the GamesBeat report and is not independent confirmation."
+    "question": "Does the “still changing” report mean GTA VI is unfinished or delayed?",
+    "text": "The reported interview statement says development continued to evolve and some things changed in recent months. It does not identify the changes or establish an unfinished build or delay. Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S."
   },
   "summary": [
-    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S; no new official date change was found.",
-    "GamesBeat reported a Q1 2027 PC plan citing four anonymous sources. Rockstar and Take-Two have not announced a PC version or date, and follow-up coverage is not independent corroboration.",
-    "Rockstar published a launch trailer on October 15. It confirms promotion, not build completion or a guaranteed console date.",
-    "A self-selected discussion shows some readers weighing a console purchase against waiting for PC; it does not establish broad demand or pool use.",
-    "A separate anonymous full-build threat is financially incentivized and unverified; no independent verification of a complete build was found.",
-    "First-party analytics were unavailable; reader behavior and product value remain unknown."
+    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. No new official date change was found.",
+    "GamesRadar and Vice report that Bloomberg’s October 14 feature quoted Rockstar technology director Phil Hooker on continued development changes. The statement does not identify the changes or establish build status or schedule risk; Bloomberg could not be accessed directly in this check.",
+    "No official native PC version, date, or window has been announced. GamesBeat reports a Q1 2027 PC plan from four anonymous sources; follow-up reports are not independent confirmation.",
+    "Reporting says Cyberleek withdrew its conditional full-build release threat after its token target was missed. Neither that threat nor a separate spoiler claim is independently verified.",
+    "Take-Two scheduled fiscal Q2 2027 results for November 9, 2026, a future official checkpoint, not release evidence.",
+    "Analytics were unavailable; reader behavior and product value remain unknown."
   ],
   "uncertainty": [
-    "November 19 remains an official console commitment, not a delivery guarantee; two earlier official target movements remain relevant.",
-    "The Q1 2027 PC window is an unconfirmed GamesBeat report from four anonymous sources; the identities and source independence are not publicly assessable.",
-    "No official native PC version, date, or window has been announced.",
-    "Rockstar’s October 15 launch trailer confirms promotion, not game completion or delivery readiness.",
-    "A separate full-build claim has a financial incentive and no independent verification; do not treat it as readiness evidence.",
-    "Take-Two’s November 9 results date is a future checkpoint, not release evidence.",
-    "The read-only analytics broker was unavailable; visits, source inspections, decisions, returns, and revenue remain unknown."
+    "November 19 remains an official console commitment, not a delivery guarantee; two earlier target movements remain relevant.",
+    "The reported interview quote does not identify what changed or say whether changes affect final build, certification, distribution, or schedule.",
+    "Bloomberg’s feature was inaccessible directly; the quote was checked through GamesRadar and Vice coverage.",
+    "The Q1 2027 PC window remains an unconfirmed GamesBeat report from four anonymous sources.",
+    "Cyberleek’s full-build threat withdrawal and separate spoiler claim are statements attributed to one anonymous account; no complete build was independently verified.",
+    "The read-only analytics broker was unavailable, so visits, source inspections, decisions, returns, and revenue remain unknown."
   ],
-  "checked_at": "2026-10-17T21:04:01Z",
-  "meaningfully_updated_at": "2026-10-17T21:04:01Z",
-  "freshness_note": "Checked October 17, 2026. The official console listing remains November 19. A new GamesBeat report says Q1 2027 PC, citing four anonymous sources; it is not an official commitment and follow-up coverage traces to the same report. Rockstar’s October 15 launch trailer does not establish readiness. Recheck official publisher and platform pages, independent sourcing, and the November 9 Take-Two results."
+  "checked_at": "2026-10-21T00:17:10Z",
+  "meaningfully_updated_at": "2026-10-21T00:17:10Z",
+  "freshness_note": "Checked October 21, 2026. The official console date remains November 19. New coverage of a September interview reports continued development changes but provides no specific changes or schedule implication. The Cyberleek full-build threat was reportedly withdrawn after its token condition was missed; no full build is authenticated. Recheck official pages and Take-Two’s November 9 results."
 }

@@ -66,6 +66,12 @@
       "changed_at": "2026-10-17T21:04:01Z",
       "summary": "Rechecked the unchanged November 19 console commitment; added the unconfirmed GamesBeat Q1 2027 PC report with source limits, assessed the October 15 launch trailer as promotion rather than readiness evidence, and kept an anonymous full-build threat unverified.",
       "path": "/p/gta-vi-release-reality/research/2026-10-17/"
+    },
+    {
+      "change_id": "change:20261021-interview-context-and-threat-status",
+      "changed_at": "2026-10-21T00:18:07Z",
+      "summary": "Rechecked the November 19 console commitment; clarified that reported ongoing development changes do not establish an unfinished build or delay, and updated the unverified Cyberleek full-build threat after its conditional release was reportedly withdrawn.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-21/"
     }
   ]
 }
