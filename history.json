@@ -132,6 +132,17 @@
       "summary": "The November 19 console commitment remains current. Coverage reports ongoing changes without identifying their scope or schedule effect; the conditional full-build threat was reportedly withdrawn, but claims remain unverified.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-21/",
       "entrypoint": "research/2026-10-21/index.html"
+    },
+    {
+      "run_id": "report-8437b0b23bab5a7970bea818",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-25T00:00:00Z",
+      "completed_at": "2026-10-25T00:18:40Z",
+      "title": "November 19 remains listed; PS5 unlock times vary by region",
+      "summary": "The official console date remains unchanged. Current Store pages show regional PS5 timestamps; a report of a Cyberleek return notice does not verify new material or affect schedule confidence.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-25/",
+      "entrypoint": "research/2026-10-25/index.html"
     }
   ]
 }

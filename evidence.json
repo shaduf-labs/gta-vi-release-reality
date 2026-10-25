@@ -1110,6 +1110,136 @@
       "accessed_at": "2026-10-21T00:18:07Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261025",
+      "source_type": "official publisher product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for PS5 and Xbox Series X|S. No new date change appears on the checked page.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261025",
+      "source_type": "official platform product page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation still lists November 19, 2026 for PS5; the page also labels PS5 Pro Enhanced.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261025",
+      "source_type": "official platform product page",
+      "source_url": "https://www.xbox.com/en-US/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox still lists November 19, 2026 for Xbox Series X|S and does not publish an exact unlock hour on the checked page.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-status-20261025",
+      "source_type": "official investor relations release",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two Fiscal Q1 2027 results",
+      "claim": "Take-Two’s latest checked results release still lists November 19, 2026 for the console launch.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:store-us-time-20261025",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — US PlayStation Store",
+      "claim": "The US digital PS5 product page lists November 19, 2026 at 05:00 UTC.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:store-nz-time-20261025",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The New Zealand digital PS5 page lists November 18, 2026 at 11:00 UTC.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:store-es-time-20261025",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/es-es/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — Spain PlayStation Store",
+      "claim": "The Spain digital PS5 product page lists November 18, 2026 at 23:00 UTC.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-preload-20261025",
+      "source_type": "official publisher support page",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions",
+      "claim": "Rockstar Support says preload begins November 12 at local midnight and boxed physical version contains a download code, not a disc. This does not establish playable access on November 12.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesbeat-pc-q1-20261025",
+      "source_type": "gaming trade reporting",
+      "source_url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 — GamesBeat",
+      "claim": "GamesBeat reports a Q1 2027 PC plan based on four anonymous sources; Rockstar has not officially announced a native PC version or date.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:cyberleek-return-leonidahub-20261025",
+      "source_type": "gaming report on anonymous account statements",
+      "source_url": "https://leonidahub.org/en/news/cyberleek-says-it-won-t-leak-gta-vi-s-full-build-or-ending-the-leeks-stop-here-for-now",
+      "title": "Cyberleek says it will not leak GTA VI’s full build or ending — Leonida Hub",
+      "claim": "Leonida Hub’s October 22 update reports an October 21 “Return of CL” notice and says no new material appeared on the account’s public list by midday October 22. The account and messages are not independently authenticated.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-preload-countdown-20261025",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1x993gk/countdown_gta_vi_preload_countdown_timer/",
+      "title": "GTA VI preload countdown discussion — r/GTA6",
+      "claim": "A sampled thread includes timezone questions and comments separating preload from playable launch. It is not representative demand or evidence of pool use.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:community-time-email-20261025",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/PlaystationIndia/comments/1xe3kiw/playstation_email_confirms_gta_6_is_a_global/",
+      "title": "PlayStation email countdown interpretation — r/PlaystationIndia",
+      "claim": "One post interprets a claimed promotional email as a global 10:00 UTC countdown; the email was not independently inspected, so the interpretation is unverified.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-checkpoint-20261025",
+      "source_type": "official investor relations notice",
+      "source_url": "https://www.take2games.com/ir/press-releases?ID=1163124&c=86428&p=irol-newsArticle",
+      "title": "Take-Two Q2 FY2027 results date",
+      "claim": "Take-Two scheduled fiscal Q2 2027 results for November 9, 2026; this is a future check, not release evidence.",
+      "accessed_at": "2026-10-25T00:11:05Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

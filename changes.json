@@ -72,6 +72,12 @@
       "changed_at": "2026-10-21T00:18:07Z",
       "summary": "Rechecked the November 19 console commitment; clarified that reported ongoing development changes do not establish an unfinished build or delay, and updated the unverified Cyberleek full-build threat after its conditional release was reportedly withdrawn.",
       "path": "/p/gta-vi-release-reality/research/2026-10-21/"
+    },
+    {
+      "change_id": "change-20261025-regional-times-and-status",
+      "changed_at": "2026-10-25T00:11:05Z",
+      "summary": "Rechecked official date and platform pages. Added current regional PS5 Store timestamps, separated preload from playable access, and replaced the stale Cyberleek withdrawal status with a clearly attributed report of an unverified return notice.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-25/"
     }
   ]
 }
