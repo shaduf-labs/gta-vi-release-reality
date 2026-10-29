@@ -78,6 +78,12 @@
       "changed_at": "2026-10-25T00:11:05Z",
       "summary": "Rechecked official date and platform pages. Added current regional PS5 Store timestamps, separated preload from playable access, and replaced the stale Cyberleek withdrawal status with a clearly attributed report of an unverified return notice.",
       "path": "/p/gta-vi-release-reality/research/2026-10-25/"
+    },
+    {
+      "change_id": "change:20261029-review-access-signal",
+      "changed_at": "2026-10-29T00:14:37Z",
+      "summary": "Rechecked the unchanged November 19 console commitment and added the reported review-code rollout as a limited launch-operations signal, with its unofficial source chain and readiness limits.",
+      "path": "/p/gta-vi-release-reality/research/2026-10-29/"
     }
   ]
 }

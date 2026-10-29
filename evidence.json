@@ -1240,6 +1240,126 @@
       "accessed_at": "2026-10-25T00:11:05Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261029",
+      "source_type": "official game page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar lists November 19, 2026 and PS5 and Xbox Series X|S as the current launch platforms.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261029",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation",
+      "claim": "PlayStation lists a November 19, 2026 release for PS5 and PS5 Pro.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261029",
+      "source_type": "official platform page",
+      "source_url": "https://www.xbox.com/en-US/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — Xbox",
+      "claim": "Xbox lists November 19, 2026 for Xbox Series X|S.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:nate-review-codes-20261026",
+      "source_type": "unofficial social post",
+      "source_url": "https://x.com/NateTheHate2/status/2114749073953873963",
+      "title": "NateTheHate2 review-code post",
+      "claim": "An unofficial post says Rockstar began distributing review codes and gives November 18 as the embargo date; no named recipient is supplied.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:insider-review-embargo-20261026",
+      "source_type": "gaming publication report",
+      "source_url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+      "title": "Grand Theft Auto 6 Review Embargo Date Details — Insider Gaming",
+      "claim": "Insider Gaming reports an expected November 18 review date, says it independently verified reports of that date, and says copies allegedly went out near the end of October; it does not name a recipient or explain its check.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:insider-reviews-before-launch-20261014",
+      "source_type": "gaming publication report",
+      "source_url": "https://insider-gaming.com/gta-6-reviews-released-before-launch/",
+      "title": "GTA 6 Reviews Will Be Released Before Launch — Insider Gaming",
+      "claim": "Insider Gaming reported on October 14 that reviews would go live before launch and noted that its preliminary embargo timing could change.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-2027-checkpoint",
+      "source_type": "publisher investor relations event notice",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
+      "title": "Take-Two fiscal Q2 2027 results scheduled for November 9, 2026",
+      "claim": "Take-Two scheduled its fiscal Q2 2027 results for November 9, 2026; the event notice does not establish what the company will say about GTA VI.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-time-20261029",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — United States PlayStation Store",
+      "claim": "The digital PS5 product listing shows November 19, 2026 at 05:00 UTC.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-es-time-20261029",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/es-es/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — Spain PlayStation Store",
+      "claim": "The digital PS5 product listing shows November 18, 2026 at 23:00 UTC.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-time-20261029",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI — New Zealand PlayStation Store",
+      "claim": "The digital PS5 product listing shows November 18, 2026 at 11:00 UTC.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-preload-20261029",
+      "source_type": "official customer-support page",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions — Rockstar Support",
+      "claim": "Rockstar Support lists November 12 local-midnight preload and says the physical box contains a download code, not a disc.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:reddit-review-code-community-20261026",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/GTAVI/comments/1xg23za/review_codes_are_going_out_per_nate_the_hate/",
+      "title": "Review Codes are going out per Nate The Hate — r/GTAVI",
+      "claim": "One discussion includes commenters asking whether review access means the game has gone gold and raising spoiler concerns; the thread is not evidence of receipt or prevalence.",
+      "accessed_at": "2026-10-29T00:14:37Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

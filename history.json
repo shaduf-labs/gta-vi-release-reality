@@ -143,6 +143,17 @@
       "summary": "The official console date remains unchanged. Current Store pages show regional PS5 timestamps; a report of a Cyberleek return notice does not verify new material or affect schedule confidence.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-25/",
       "entrypoint": "research/2026-10-25/index.html"
+    },
+    {
+      "run_id": "report-57770b88f3d251f1314c3a36",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T00:00:00Z",
+      "completed_at": "2026-10-29T00:18:59Z",
+      "title": "GTA 6 review codes are reportedly moving; the date has not changed",
+      "summary": "The November 19 console commitment remains current. Reports of review-code distribution and a November 18 embargo provide a limited operations signal, not proof of a finished build or guaranteed date.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-10-29/",
+      "entrypoint": "research/2026-10-29/index.html"
     }
   ]
 }
