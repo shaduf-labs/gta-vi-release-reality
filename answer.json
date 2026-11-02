@@ -1,31 +1,32 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As checked on October 29, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. New reporting says review codes have begun going to media and reviews are expected November 18. This is a modest, unofficial signal of active launch operations, not proof that the game has gone gold, is fully certified, or cannot be delayed. No official native PC date or window has been announced.",
+  "current_answer": "As checked on November 2, 2026, Rockstar, Take-Two, PlayStation, and Xbox still list Grand Theft Auto VI for November 19, 2026 on PS5 and Xbox Series X|S. No new official date change was found in the pages checked. Current US, Spain, and New Zealand PlayStation Store pages still list different PS5 unlock times. Review-code distribution and a November 18 embargo remain reported, not official; they do not establish a finished or certified build or guarantee delivery. No official native PC date or window has been announced.",
   "catalogue_card": {
-    "question": "Do reported GTA 6 review codes make November 19 safer?",
-    "text": "The official console date is still November 19. Reports say review codes are circulating and reviews are expected November 18; Rockstar has not confirmed this, and review access is not proof the game is finished or the date guaranteed."
+    "question": "Is GTA 6 still on for November 19?",
+    "text": "Rockstar, Take-Two, PlayStation, and Xbox still list November 19 for PS5 and Xbox Series X|S. Reviews are reported for November 18, not officially confirmed. Regional PS5 unlock times differ."
   },
   "summary": [
-    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. No new official date change was found.",
-    "NateTheHate2 posted that review codes had begun going to media and gave November 18 as the embargo date. Insider Gaming says it independently verified the November 18 review date and reports copies allegedly went out near the end of October. Neither is a first-party Rockstar or Take-Two announcement.",
-    "The report is a limited launch-operations signal if accurate. It does not establish that the game has gone gold, is final or fully certified, or cannot be delayed. Rockstar has moved the public target twice before.",
-    "No official native PC platform, date, or window has been announced. GamesBeat reports a Q1 2027 PC plan from four anonymous sources; it is not an official commitment.",
-    "Official PS5 Store pages show regional unlock times; the Xbox page lists November 19 but no hour. Rockstar Support says preload begins November 12, which is not the playable unlock.",
-    "The last detailed Cyberleek report said no new material appeared on the public list by October 22; the account, operator, and full-build claim remain unverified. See the October 25 report for the evidence review.",
-    "Take-Two scheduled fiscal Q2 2027 results for November 9. The event is a checkpoint, not evidence about release readiness or a promise to discuss GTA VI.",
-    "Analytics were unavailable. Pool visits, source checks, decisions, repeat use, and revenue remain unknown."
+    "Rockstar, Take-Two, PlayStation, and Xbox still list November 19, 2026 for PS5 and Xbox Series X|S. No new official date change was found in the pages checked.",
+    "The US PlayStation Store lists November 19 at 05:00 UTC; Spain lists November 18 at 23:00 UTC; New Zealand lists November 18 at 11:00 UTC. These regional listings may change and do not establish a Rockstar-wide global hour. Rockstar Support says preload begins November 12 at local midnight; preload is not playable access.",
+    "NateTheHate2 posted that review codes had begun going to media and named November 18 as the embargo date. Insider Gaming says it independently verified the review date and reports copies allegedly went out near the end of October. Neither is an official Rockstar or Take-Two announcement; no recipient is named in the report.",
+    "If accurate, review access supports the limited conclusion that review operations are being scheduled. It does not establish that the game has gone gold, is final or certified, or cannot be delayed. Two earlier official target movements remain relevant.",
+    "GinjFo reports that a Cyberleek-branded account posted an October 21 return notice and an October 28 poll, but says it found no new gameplay footage it could independently authenticate. The account and any complete build remain unverified; see the November 2 report for the claim history and limits.",
+    "No official native PC release, date, or window has been announced. GamesBeat reports Q1 2027 from four anonymous sources; Rockstar did not respond before publication.",
+    "Take-Two scheduled its fiscal Q2 2027 results for November 9 at 4:30 p.m. Eastern Time. The event notice does not promise a GTA VI update.",
+    "Analytics were unavailable. Pool visits, source checks, choices, return use, and revenue remain unknown."
   ],
   "uncertainty": [
-    "November 19 remains a public console commitment, not a delivery guarantee; two earlier target movements remain relevant.",
-    "The review-code and embargo claims are reported, not official. The direct code-distribution claim has no named recipient; Insider Gaming does not explain its independent verification.",
-    "Review access does not prove a gold, final, or fully certified build, and does not make another delay impossible.",
+    "November 19 remains a public console commitment, not a delivery guarantee; Rockstar has moved the public target twice before.",
+    "Review-code distribution and the November 18 embargo are reported, not first-party announcements. The code claim has no named recipient; Insider Gaming does not explain its independent verification.",
+    "Review access does not establish a gold, final, or fully certified build and does not make another delay impossible.",
+    "PS5 Store timestamps are regional listings that can change; they are not one global publisher announcement. The checked Xbox Store page lists no exact hour.",
     "The Q1 2027 PC window is an unconfirmed GamesBeat report from four anonymous sources.",
-    "Regional PS5 Store metadata may change and is not a publisher-wide global timing announcement; the checked Xbox page lists no exact hour.",
-    "The last specific Cyberleek report checked said no new material appeared by October 22. The account, operator, and full-build claim remain unverified.",
-    "The read-only analytics broker was unavailable; reader behavior and product value remain unknown."
+    "GinjFo reports a Cyberleek-branded return notice and poll, but no new material it could authenticate. The account, messages, and full-build claim remain unverified.",
+    "The November 9 results call is scheduled, but its notice does not promise GTA VI release guidance.",
+    "The analytics broker was unavailable; reader behavior and product value remain unknown."
   ],
-  "checked_at": "2026-10-29T00:14:37Z",
+  "checked_at": "2026-11-02T10:21:35Z",
   "meaningfully_updated_at": "2026-10-29T00:14:37Z",
-  "freshness_note": "Checked October 29, 2026. The official console date remains November 19. Reports say review codes have begun going to media and reviews are expected November 18; this is a limited operations signal, not proof of a finished or certified build or guaranteed delivery. Recheck the official listings and Take-Two results scheduled for November 9."
+  "freshness_note": "Checked November 2, 2026. The November 19 PS5 and Xbox Series X|S commitment is unchanged. Regional PS5 Store times remain different. Review-code distribution and the November 18 embargo are still reported, not official. Take-Two’s next scheduled results are November 9; the event itself is not release evidence."
 }

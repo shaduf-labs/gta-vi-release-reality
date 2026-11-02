@@ -84,6 +84,12 @@
       "changed_at": "2026-10-29T00:14:37Z",
       "summary": "Rechecked the unchanged November 19 console commitment and added the reported review-code rollout as a limited launch-operations signal, with its unofficial source chain and readiness limits.",
       "path": "/p/gta-vi-release-reality/research/2026-10-29/"
+    },
+    {
+      "change_id": "change:20261102-regional-times-and-status-recheck",
+      "changed_at": "2026-11-02T10:21:35Z",
+      "summary": "Rechecked the unchanged November 19 console commitment and regional PS5 Store timestamps; kept review-code and Cyberleek claims separate from official release evidence and named November 9 as the next scheduled investor checkpoint.",
+      "path": "/p/gta-vi-release-reality/research/2026-11-02/"
     }
   ]
 }

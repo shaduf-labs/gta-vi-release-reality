@@ -154,6 +154,17 @@
       "summary": "The November 19 console commitment remains current. Reports of review-code distribution and a November 18 embargo provide a limited operations signal, not proof of a finished build or guaranteed date.",
       "report_path": "/p/gta-vi-release-reality/research/2026-10-29/",
       "entrypoint": "research/2026-10-29/index.html"
+    },
+    {
+      "run_id": "report-0ee62c58e45ddec523109aef",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-11-02T10:16:57Z",
+      "completed_at": "2026-11-02T10:27:42Z",
+      "title": "GTA 6 date unchanged; regional PS5 unlock times rechecked",
+      "summary": "The November 19 console date and regional PS5 Store times remain listed. Review and Cyberleek claims remain unofficial; Take-Two’s November 9 results are the next scheduled checkpoint.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-11-02/",
+      "entrypoint": "research/2026-11-02/index.html"
     }
   ]
 }

@@ -1360,6 +1360,146 @@
       "accessed_at": "2026-10-29T00:14:37Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-status-20261102",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "The Rockstar page continues to list November 19, 2026 for PS5 and Xbox Series X|S.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-status-20261102",
+      "source_type": "official platform page",
+      "source_url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "title": "Grand Theft Auto VI — PlayStation US",
+      "claim": "The PlayStation page lists the PS5 and PS5 Pro release date as November 19, 2026.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:xbox-status-20261102",
+      "source_type": "official platform store",
+      "source_url": "https://www.xbox.com/en-US/games/store/grand-theft-auto-vi/9p3h4968grsm",
+      "title": "Grand Theft Auto VI — Xbox Store",
+      "claim": "The Xbox Store lists November 19, 2026 for Xbox Series X|S and does not show an exact hour in the inspected listing.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-date-20261102",
+      "source_type": "publisher investor release",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "title": "Take-Two fiscal Q1 2027 results",
+      "claim": "Take-Two’s August results release cited excitement around the November 19 GTA VI launch.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-us-time-20261102",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — United States PlayStation Store",
+      "claim": "The digital PS5 product page lists November 19, 2026 at 05:00 UTC.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-es-time-20261102",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/es-es/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "title": "Grand Theft Auto VI — Spain PlayStation Store",
+      "claim": "The digital PS5 product page lists November 18, 2026 at 23:00 UTC.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ps-store-nz-time-20261102",
+      "source_type": "official PlayStation Store product page",
+      "source_url": "https://store.playstation.com/en-nz/concept/10000730",
+      "title": "Grand Theft Auto VI Ultimate Edition — New Zealand PlayStation Store",
+      "claim": "The digital PS5 product page lists November 18, 2026 at 11:00 UTC.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-preload-20261102",
+      "source_type": "official customer-support page",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions — Rockstar Support",
+      "claim": "Rockstar Support says digital preload begins November 12 at local midnight; preload is not playable access.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-checkpoint-20261102",
+      "source_type": "official investor-relations event notice",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
+      "title": "Take-Two to report fiscal Q2 2027 results on November 9",
+      "claim": "Take-Two scheduled results for after market close on November 9, with a 4:30 p.m. Eastern Time conference call; the notice does not promise GTA VI schedule information.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:insider-review-embargo-20261102",
+      "source_type": "gaming publication report",
+      "source_url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+      "title": "Grand Theft Auto 6 Review Embargo Date Details — Insider Gaming",
+      "claim": "Insider Gaming reports a November 18 review date and says it independently verified reports of the date; no named recipient or verification method is supplied in the inspected article.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesbeat-pc-q1-20261102",
+      "source_type": "gaming business report",
+      "source_url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 — GamesBeat",
+      "claim": "GamesBeat attributes a Q1 2027 PC plan to four anonymous sources and says Rockstar did not respond before publication; it is not an official PC commitment.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ginjfo-cyberleek-update-20261102",
+      "source_type": "gaming and technology report",
+      "source_url": "https://www.ginjfo.com/actualites/logiciels/jeux-video-logiciels/gta-6-cyberleek-annonce-son-retour-et-promet-de-nouvelles-revelations-20261024",
+      "title": "GTA 6: Cyberleek announces return, poll published — GinjFo",
+      "claim": "GinjFo’s October 28 update reports a Cyberleek-branded poll and says it found no new gameplay footage it could independently authenticate.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:vgc-cyberleek-claim-20261102",
+      "source_type": "gaming publication report",
+      "source_url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+      "title": "Group threatens to leak a “full” GTA 6 build — VGC",
+      "claim": "VGC reported that an account using the Cyberleek name made a conditional full-build claim; the report does not verify the existence of a complete build.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:vgc-cyberleek-footage-20261102",
+      "source_type": "gaming publication report",
+      "source_url": "https://www.videogameschronicle.com/news/as-rockstar-continues-to-hunt-for-the-gta-6-leaker-theyve-returned-with-25-minutes-of-nudity-heavy-gameplay/",
+      "title": "VGC report on October 8 Cyberleek footage",
+      "claim": "VGC said one earlier clip appeared authentic but noted that a visible event could have been altered; this does not authenticate a full or final build.",
+      "accessed_at": "2026-11-02T10:21:35Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
