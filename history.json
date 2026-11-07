@@ -165,6 +165,17 @@
       "summary": "The November 19 console date and regional PS5 Store times remain listed. Review and Cyberleek claims remain unofficial; Take-Two’s November 9 results are the next scheduled checkpoint.",
       "report_path": "/p/gta-vi-release-reality/research/2026-11-02/",
       "entrypoint": "research/2026-11-02/index.html"
+    },
+    {
+      "run_id": "report-1c5b3dc047090373997649b3",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-07T14:58:38Z",
+      "completed_at": "2026-11-07T15:33:21.598Z",
+      "title": "GTA 6 launch time is now official: local midnight on both consoles",
+      "summary": "Rockstar Support now specifies midnight-local release on November 19 for both consoles and separate November 10 pre-load starts. Up to 212 GB may be needed; delivery confidence remains bounded and PC timing is still unofficial.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-11-07/",
+      "entrypoint": "research/2026-11-07/index.html"
     }
   ]
 }

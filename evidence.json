@@ -1500,6 +1500,86 @@
       "accessed_at": "2026-11-02T10:21:35Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-support-release-times-20261107",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s",
+      "title": "Grand Theft Auto VI regional pre-load and release times — Rockstar Support",
+      "claim": "Rockstar Support says PS5 and Xbox Series X|S release at midnight local time on November 19 in all regions; PS5 pre-load starts local midnight November 10 and Xbox globally at 00:00 GMT November 10.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-preload-faq-20261107",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq",
+      "title": "Grand Theft Auto VI Pre-Load FAQ — Rockstar Support",
+      "claim": "Digital pre-load starts at local midnight November 10 on PS5 and globally at 00:00 GMT on Xbox Series X|S; up to 212 GB of available space is needed depending on device.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-install-requirements-20261107",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements",
+      "title": "Grand Theft Auto VI installation requirements — Rockstar Support",
+      "claim": "Rockstar says the game needs up to 212 GB of available space depending on device.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-editions-20261107",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions",
+      "title": "Grand Theft Auto VI Platforms, Editions, and Versions — Rockstar Support",
+      "claim": "The physical version contains a download code rather than a disc and is expected at retailers from November 12; this is not the playable release date.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:playstation-support-es-co-20261107",
+      "source_type": "official regional platform support",
+      "source_url": "https://www.playstation.com/es-co/support/games/gta-vi-support/",
+      "title": "Asistencia para Grand Theft Auto VI — PlayStation Colombia",
+      "claim": "PlayStation Colombia says PS5 releases at local midnight November 19, pre-load begins at local midnight November 10, and 212 GB should be available.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:revistamercado-local-time-20261107",
+      "source_type": "regional gaming/business publication",
+      "source_url": "https://revistamercado.do/technology/devices/gta-6-precarga-10-noviembre-hora-rd/",
+      "title": "GTA 6 preload, local times and storage in the Dominican Republic — Revista Mercado",
+      "claim": "The outlet converts Xbox pre-load to 8 p.m. November 9 and PS5 pre-load to midnight November 10 in the Dominican Republic; this is a local conversion, not a global schedule.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:reddit-storage-concerns-20261107",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1xg7z44/so_guess_my_gaming_librarys-about-to-be/",
+      "title": "GTA VI storage and connection discussion — r/GTA6",
+      "claim": "Comments mention storage cleanup and slow broadband, while others say deleting and reinstalling games is easy; qualitative, self-selected evidence, not prevalence.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:pcgamer-guide-recheck-20261107",
+      "source_type": "gaming guide",
+      "source_url": "https://www.pcgamer.com/grand-theft-auto/gta-6-guide/",
+      "title": "GTA 6 guide — PC Gamer",
+      "claim": "The current guide covers Rockstar’s midnight-local release rule, November 10 preload starts, and up to 212 GB; its PC “when” framing is inference, not official commitment.",
+      "accessed_at": "2026-11-07T15:30:32.135Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }
