@@ -96,6 +96,12 @@
       "changed_at": "2026-11-07T15:30:32.135Z",
       "summary": "Updated the answer with Rockstar’s local-midnight rule for both consoles, November 10 platform-specific pre-load times, and up-to-212-GB storage; the date itself is unchanged.",
       "path": "/p/gta-vi-release-reality/research/2026-11-07/"
+    },
+    {
+      "change_id": "change:20261110-take-two-earnings-reaffirmation",
+      "changed_at": "2026-11-10T00:07:24Z",
+      "summary": "Updated the current answer with Take-Two’s November 9 launch reaffirmation and fiscal outlook; the signal strengthens the plan but does not guarantee delivery or establish final-build status.",
+      "path": "/p/gta-vi-release-reality/research/2026-11-10/"
     }
   ]
 }

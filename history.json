@@ -176,6 +176,17 @@
       "summary": "Rockstar Support now specifies midnight-local release on November 19 for both consoles and separate November 10 pre-load starts. Up to 212 GB may be needed; delivery confidence remains bounded and PC timing is still unofficial.",
       "report_path": "/p/gta-vi-release-reality/research/2026-11-07/",
       "entrypoint": "research/2026-11-07/index.html"
+    },
+    {
+      "run_id": "report-0524591bec5e37a8f78545bf",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-10T00:00:00Z",
+      "completed_at": "2026-11-10T00:31:23Z",
+      "title": "Take-Two says GTA 6 launches in ten days. What does that change?",
+      "summary": "Take-Two’s November 9 statement strengthens confidence in the November 19 console plan. Rockstar’s date and platform scope are unchanged; investor forecasts and launch operations do not prove a final build or guarantee delivery.",
+      "report_path": "/p/gta-vi-release-reality/research/2026-11-10/",
+      "entrypoint": "research/2026-11-10/index.html"
     }
   ]
 }

@@ -1580,6 +1580,86 @@
       "accessed_at": "2026-11-07T15:30:32.135Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-release-20261109",
+      "source_type": "publisher investor relations release",
+      "source_url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-4",
+      "title": "Take-Two Reports Results for Fiscal Second Quarter 2027",
+      "claim": "On November 9, Take-Two’s CEO described the launch as ten days away and the company reiterated fiscal 2027 net bookings outlook of $8.0 to $8.2 billion. The statement is forward-looking and is not a build certification.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:take-two-q2-call-20261109",
+      "source_type": "publisher investor relations earnings-call remarks",
+      "source_url": "https://ir.take2games.com/static-files/a45ff316-72c4-4255-b123-aace2e41ad1a",
+      "title": "Take-Two Fiscal Q2 2027 Earnings Call Prepared Remarks",
+      "claim": "The CFO reiterated the fiscal 2027 outlook, said preorders exceeded initial expectations, and named expected GTA VI sales among several outlook drivers.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-home-20261110",
+      "source_type": "official product page",
+      "source_url": "https://www.rockstargames.com/VI",
+      "title": "Grand Theft Auto VI — Rockstar Games",
+      "claim": "Rockstar still lists November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-preload-times-20261110",
+      "source_type": "official customer support",
+      "source_url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s",
+      "title": "Grand Theft Auto VI regional pre-load and release times — Rockstar Support",
+      "claim": "PS5 pre-load starts at local midnight November 10; Xbox pre-load starts at 00:00 GMT November 10; both consoles release at midnight local time November 19.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:rockstar-festival-20261109",
+      "source_type": "official Rockstar event announcement",
+      "source_url": "https://www.rockstargames.com/VI/gtavi-thefestival",
+      "title": "Grand Theft Auto VI: The Festival",
+      "claim": "Rockstar announced a Miami music event for November 21 to celebrate the launch; it is campaign activity, not build-readiness evidence.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:gamesbeat-pc-q1-20261013",
+      "source_type": "reported PC release window",
+      "source_url": "https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/",
+      "title": "Grand Theft Auto VI’s PC release is slated for Q1 2027 — GamesBeat",
+      "claim": "GamesBeat reports a Q1 2027 PC plan based on four anonymous sources; Rockstar did not respond before publication. No official PC date or window is listed.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:ginjfo-cyberleek-return-20261028",
+      "source_type": "reported account activity",
+      "source_url": "https://www.ginjfo.com/actualites/logiciels/jeux-video-logiciels/gta-6-cyberleek-annonce-son-retour-et-promet-de-nouvelles-revelations-20261024",
+      "title": "GTA 6: Cyberleek announces its return — GinjFo",
+      "claim": "GinjFo’s October 28 update reports an account return notice and poll but says it did not identify new gameplay footage it could authenticate.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub:reddit-preload-planning-20261110",
+      "source_type": "self-selected community discussion",
+      "source_url": "https://www.reddit.com/r/GTA6/comments/1x993gk/countdown_gta_vi_preload_countdown_timer/",
+      "title": "GTA VI Preload Countdown Timer — r/GTA6",
+      "claim": "One self-selected discussion includes last-minute purchase and download questions; replies include guesses and a superseded preload date, so it does not establish policy or prevalence.",
+      "accessed_at": "2026-11-10T00:07:24Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

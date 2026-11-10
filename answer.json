@@ -1,30 +1,33 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "As checked November 7, Rockstar lists GTA 6 for November 19, 2026 on PS5 and Xbox Series X|S. Both unlock at midnight local time in every region. Pre-load starts November 10: PS5 at local midnight, Xbox worldwide at 00:00 GMT. Rockstar says up to 212 GB may be needed depending on device. This is a public commitment, not a guarantee; two earlier targets moved. No official native PC date or window has been announced.",
+  "current_answer": "As checked November 10, 2026, Rockstar still lists Grand Theft Auto VI for November 19 on PS5 and Xbox Series X|S, with release at midnight local time in all regions. On November 9, Take-Two’s CEO said the launch was ten days away and its CFO reiterated the fiscal 2027 outlook, reporting preorders above initial expectations. This is a meaningful confidence signal, not proof of a finished or certified build or a guarantee. Rockstar has moved its public target twice before. Digital pre-load is scheduled for November 10: PS5 at local midnight and Xbox at 00:00 GMT. No official native PC release date or window is listed.",
   "catalogue_card": {
-    "question": "What time does GTA 6 unlock, and when can I pre-load?",
-    "text": "Both consoles unlock at local midnight on November 19. Pre-load starts November 10, with up to 212 GB needed depending on device."
+    "question": "Is GTA 6 still on for November 19?",
+    "text": "Yes: Rockstar still lists November 19 for PS5 and Xbox Series X|S. Take-Two’s November 9 call says launch is ten days away—a stronger signal, not a guarantee."
   },
   "summary": [
-    "Rockstar lists November 19, 2026 for PS5 and Xbox Series X|S. Its support page says both versions release at midnight local time in every region; this is not one simultaneous worldwide UTC launch.",
-    "Pre-load is earlier than play access. PS5 starts at local midnight on November 10. Xbox starts globally at 00:00 GMT on November 10, which is November 9 in some time zones.",
-    "Rockstar says installation needs up to 212 GB depending on device. PlayStation Colombia support tells PS5 players to have 212 GB free. Rockstar has not published a per-console storage table or day-one patch size.",
-    "The code-in-box version contains no disc and is expected in retail from November 12. That date is not an early playable release.",
-    "Two earlier public targets moved. Launch logistics help with planning but do not prove the game is final, certified, or impossible to delay.",
-    "No official native PC date or window is listed. GamesBeat’s Q1 2027 report cites four anonymous sources; it is not a publisher commitment.",
-    "The October 26 review-code and November 18 embargo claims remain reported, not official. Review access does not prove a gold or certified build.",
-    "The latest inspected Cyberleek report says it could not authenticate new footage; the account and full-build claim remain unverified."
+    "Rockstar lists November 19, 2026 for PS5 and Xbox Series X|S. Its support page says both release at midnight local time in all regions.",
+    "On November 9, Take-Two’s CEO said the launch was ten days away. The company reiterated its fiscal 2027 net bookings outlook and reported preorders above initial expectations. This strengthens confidence in the current plan.",
+    "The earnings release and call are forward-looking statements from the same financially interested publisher. They do not prove gold status, full certification, or an unchangeable date.",
+    "Pre-load is separate from play access: PS5 starts at local midnight November 10; Xbox starts globally at 00:00 GMT November 10. Rockstar says up to 212 GB may be needed depending on device.",
+    "Rockstar announced a November 21 Miami music event to celebrate the launch. This is launch marketing, not software-readiness evidence.",
+    "Two earlier public targets moved. November 19 remains a commitment, not a guarantee.",
+    "No official native PC release or window is listed. GamesBeat’s Q1 2027 report cites four anonymous sources and is not a publisher commitment.",
+    "Review-code distribution and a November 18 embargo remain reported, not first-party announcements; they do not prove a final build.",
+    "An account using the Cyberleek name has made an unverified full-build claim. GinjFo’s latest inspected update found no new gameplay footage it could authenticate."
   ],
   "uncertainty": [
-    "November 19 remains a public console commitment, not a delivery guarantee; two earlier target movements remain relevant.",
-    "The official local-midnight rule clarifies regional timing, but country-specific UTC conversions and Store metadata can change.",
-    "Rockstar says up to 212 GB depending on device; exact storage by console and a day-one patch size remain unknown.",
-    "The Q1 2027 PC window is an unconfirmed GamesBeat report from four anonymous sources.",
-    "Review-code distribution and the November 18 embargo are reported, not first-party announcements; they do not prove build completion or certification.",
-    "GinjFo’s October 28 update reports a Cyberleek return notice and poll but no newly authenticated footage; the account and full-build claim remain unverified."
+    "The CEO statement and fiscal outlook support Take-Two’s current plan but are forward-looking and commercially interested; they do not establish final build status or eliminate delay risk.",
+    "Rockstar has publicly moved release targets twice before; no release date is guaranteed.",
+    "The official time rule is midnight local time on each console; specific store metadata can change.",
+    "Rockstar says up to 212 GB depending on device; exact per-console storage and day-one patch size remain unknown.",
+    "The GamesBeat Q1 2027 PC window remains an anonymous-source report, not an official platform or date.",
+    "Review-code distribution and the November 18 embargo remain unofficial reports; no named recipient or public first-party schedule was identified.",
+    "The Cyberleek account, operator, and complete-build claim remain unverified; its latest inspected report did not authenticate new footage.",
+    "Pool analytics were unavailable; visits, decisions, source checks, returns, and funding were not measured."
   ],
-  "checked_at": "2026-11-07T15:30:32.135Z",
-  "meaningfully_updated_at": "2026-11-07T15:30:32.135Z",
-  "freshness_note": "Checked November 7, 2026. Rockstar Support now states a midnight-local launch on November 19 for both consoles and gives separate November 10 pre-load starts. Storage needs up to 212 GB depending on device."
+  "checked_at": "2026-11-10T00:07:24Z",
+  "meaningfully_updated_at": "2026-11-10T00:07:24Z",
+  "freshness_note": "Checked November 10, 2026. Take-Two’s November 9 earnings statement says the launch is ten days away and reiterates the fiscal-year outlook. Rockstar still lists November 19 for PS5 and Xbox Series X|S; this strengthens confidence in the plan, not certainty."
 }
